@@ -7,7 +7,8 @@
         "A1/lesson_003.json",
         "A1/lesson_004.json",
         "A1/lesson_005.json",
-        "A1/lesson_006.json"
+        "A1/lesson_006.json",
+        "A1/lesson_007.json"
       ]
     },
     "A2": {
@@ -17,7 +18,8 @@
         "A2/lesson_003.json",
         "A2/lesson_004.json",
         "A2/lesson_005.json",
-        "A2/lesson_006.json"
+        "A2/lesson_006.json",
+        "A2/lesson_007.json"
       ]
     },
     "B1": {
@@ -27,7 +29,8 @@
         "B1/lesson_003.json",
         "B1/lesson_004.json",
         "B1/lesson_005.json",
-        "B1/lesson_006.json"
+        "B1/lesson_006.json",
+        "B1/lesson_007.json"
       ]
     },
     "B2": {
@@ -37,14 +40,15 @@
         "B2/lesson_003.json",
         "B2/lesson_004.json",
         "B2/lesson_005.json",
-        "B2/lesson_006.json"
+        "B2/lesson_006.json",
+        "B2/lesson_007.json"
       ]
     }
   },
   "latest": {
-    "A1": "A1/lesson_006.json",
-    "A2": "A2/lesson_006.json",
-    "B1": "B1/lesson_006.json",
-    "B2": "B2/lesson_006.json"
+    "A1": "A1/lesson_007.json",
+    "A2": "A2/lesson_007.json",
+    "B1": "B1/lesson_007.json",
+    "B2": "B2/lesson_007.json"
   }
 }

@@ -1,0 +1,83 @@
+{
+  "level": "B2",
+  "lesson": 7,
+  "title": "B2 • Lesson 007",
+  "words": [
+    {
+      "id": "allerdings",
+      "de": "allerdings",
+      "en": "however / admittedly",
+      "type": "adverb",
+      "example": "Das stimmt, allerdings ist es komplizierter.",
+      "quizQ": "Translate: allerdings",
+      "quizA": [
+        "however",
+        "admittedly"
+      ],
+      "icon": "balance"
+    },
+    {
+      "id": "insofern",
+      "de": "insofern",
+      "en": "insofar / to that extent",
+      "type": "adverb",
+      "example": "Insofern kann ich dir zustimmen.",
+      "quizQ": "Translate: insofern",
+      "quizA": [
+        "insofar",
+        "to that extent"
+      ],
+      "icon": "balance"
+    },
+    {
+      "id": "die_voraussetzung",
+      "de": "die Voraussetzung",
+      "en": "prerequisite / condition",
+      "type": "noun • die",
+      "example": "Eine Voraussetzung ist genug Zeit.",
+      "quizQ": "Translate: die Voraussetzung",
+      "quizA": [
+        "prerequisite",
+        "condition"
+      ],
+      "icon": "lock"
+    },
+    {
+      "id": "abwägen",
+      "de": "abwägen",
+      "en": "to weigh (up)",
+      "type": "verb",
+      "example": "Wir müssen die Vor- und Nachteile abwägen.",
+      "quizQ": "Translate: abwägen",
+      "quizA": [
+        "to weigh",
+        "weigh up",
+        "to weigh up"
+      ],
+      "icon": "balance"
+    },
+    {
+      "id": "die_folge",
+      "de": "die Folge",
+      "en": "consequence",
+      "type": "noun • die",
+      "example": "Das hätte ernsthafte Folgen.",
+      "quizQ": "Translate: die Folge",
+      "quizA": [
+        "consequence"
+      ],
+      "icon": "warning"
+    }
+  ],
+  "grammar": [
+    "Concessive structure: Zwar ..., aber ...",
+    "Causal connectors: daher / deswegen / folglich.",
+    "Nominalization: Das Abwägen der Optionen ist wichtig.",
+    "Indirect speech (Konjunktiv I): Er sagt, er habe keine Zeit.",
+    "Complex sentence order: Wenn man das abwägt, ergibt sich ..."
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-09T22:01:41Z",
+    "topic": "Opinions and nuanced argumentation"
+  }
+}

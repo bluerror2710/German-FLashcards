@@ -1,0 +1,83 @@
+{
+  "level": "A2",
+  "lesson": 7,
+  "title": "A2 • Lesson 007",
+  "words": [
+    {
+      "id": "der_termin",
+      "de": "der Termin",
+      "en": "appointment",
+      "type": "noun • der",
+      "example": "Ich habe einen Termin um 10 Uhr.",
+      "quizQ": "What does 'der Termin' mean?",
+      "quizA": [
+        "appointment"
+      ],
+      "icon": "calendar"
+    },
+    {
+      "id": "verschieben",
+      "de": "verschieben",
+      "en": "to postpone / reschedule",
+      "type": "verb",
+      "example": "Können wir den Termin verschieben?",
+      "quizQ": "Translate: verschieben",
+      "quizA": [
+        "to postpone",
+        "postpone",
+        "to reschedule",
+        "reschedule"
+      ],
+      "icon": "calendar"
+    },
+    {
+      "id": "pünktlich",
+      "de": "pünktlich",
+      "en": "on time / punctual",
+      "type": "adjective",
+      "example": "Bitte seien Sie pünktlich.",
+      "quizQ": "Translate: pünktlich",
+      "quizA": [
+        "on time",
+        "punctual"
+      ],
+      "icon": "clock"
+    },
+    {
+      "id": "spät",
+      "de": "spät",
+      "en": "late",
+      "type": "adjective/adverb",
+      "example": "Ich komme fünf Minuten spät.",
+      "quizQ": "Translate: spät",
+      "quizA": [
+        "late"
+      ],
+      "icon": "clock"
+    },
+    {
+      "id": "bestätigen",
+      "de": "bestätigen",
+      "en": "to confirm",
+      "type": "verb",
+      "example": "Ich bestätige den Termin per E-Mail.",
+      "quizQ": "Translate: bestätigen",
+      "quizA": [
+        "to confirm",
+        "confirm"
+      ],
+      "icon": "mail"
+    }
+  ],
+  "grammar": [
+    "Verb-first questions: Können wir den Termin verschieben?",
+    "Time expressions: um 10 Uhr / in zehn Minuten.",
+    "Separable prefix verbs (example): Ich sage den Termin ab.",
+    "Dative with helfen (review): Können Sie mir helfen?",
+    "Polite requests: Könnten Sie das bitte bestätigen?"
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-09T22:01:41Z",
+    "topic": "Appointments and time"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "level": "B1",
+  "lesson": 7,
+  "title": "B1 • Lesson 007",
+  "words": [
+    {
+      "id": "die_rueckmeldung",
+      "de": "die Rückmeldung",
+      "en": "feedback / reply",
+      "type": "noun • die",
+      "example": "Ich freue mich auf Ihre Rückmeldung.",
+      "quizQ": "Translate: die Rückmeldung",
+      "quizA": [
+        "feedback",
+        "reply"
+      ],
+      "icon": "chat"
+    },
+    {
+      "id": "die_frage_klaeren",
+      "de": "eine Frage klären",
+      "en": "to clarify a question",
+      "type": "phrase",
+      "example": "Wir sollten die Frage heute klären.",
+      "quizQ": "What does 'eine Frage klären' mean?",
+      "quizA": [
+        "to clarify a question",
+        "clarify"
+      ],
+      "icon": "briefcase"
+    },
+    {
+      "id": "zustimmen",
+      "de": "zustimmen",
+      "en": "to agree",
+      "type": "verb",
+      "example": "Ich stimme dem Vorschlag zu.",
+      "quizQ": "Translate: zustimmen",
+      "quizA": [
+        "to agree",
+        "agree"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "ablehnen",
+      "de": "ablehnen",
+      "en": "to reject / decline",
+      "type": "verb",
+      "example": "Wir müssen den Antrag ablehnen.",
+      "quizQ": "Translate: ablehnen",
+      "quizA": [
+        "to reject",
+        "reject",
+        "to decline",
+        "decline"
+      ],
+      "icon": "x"
+    },
+    {
+      "id": "der_vorschlag",
+      "de": "der Vorschlag",
+      "en": "suggestion / proposal",
+      "type": "noun • der",
+      "example": "Der Vorschlag klingt gut.",
+      "quizQ": "Translate: der Vorschlag",
+      "quizA": [
+        "suggestion",
+        "proposal"
+      ],
+      "icon": "idea"
+    }
+  ],
+  "grammar": [
+    "Verb + preposition: jdm. zustimmen (Dativ) / dem Vorschlag zustimmen.",
+    "Subordinate clause with weil: Ich lehne ab, weil es zu teuer ist.",
+    "Konjunktiv II for polite tone: Ich würde vorschlagen, dass ...",
+    "Noun-verb style: eine Entscheidung treffen, eine Frage klären.",
+    "Comma + dass-satz: Ich denke, dass der Plan funktioniert."
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-09T22:01:41Z",
+    "topic": "Workplace communication"
+  }
+}

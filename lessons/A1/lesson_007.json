@@ -1,0 +1,84 @@
+{
+  "level": "A1",
+  "lesson": 7,
+  "title": "A1 • Lesson 007",
+  "words": [
+    {
+      "id": "der_bahnhof",
+      "de": "der Bahnhof",
+      "en": "train station",
+      "type": "noun • der",
+      "example": "Der Bahnhof ist hier.",
+      "quizQ": "Translate: der Bahnhof",
+      "quizA": [
+        "train station",
+        "station"
+      ],
+      "icon": "travel"
+    },
+    {
+      "id": "die_haltestelle",
+      "de": "die Haltestelle",
+      "en": "(bus/tram) stop",
+      "type": "noun • die",
+      "example": "Die Haltestelle ist dort.",
+      "quizQ": "What does 'die Haltestelle' mean?",
+      "quizA": [
+        "stop",
+        "bus stop",
+        "tram stop"
+      ],
+      "icon": "travel"
+    },
+    {
+      "id": "links",
+      "de": "links",
+      "en": "left",
+      "type": "adverb",
+      "example": "Gehen Sie links.",
+      "quizQ": "Translate: links",
+      "quizA": [
+        "left"
+      ],
+      "icon": "map"
+    },
+    {
+      "id": "rechts",
+      "de": "rechts",
+      "en": "right",
+      "type": "adverb",
+      "example": "Dann rechts.",
+      "quizQ": "Translate: rechts",
+      "quizA": [
+        "right"
+      ],
+      "icon": "map"
+    },
+    {
+      "id": "gehen",
+      "de": "gehen",
+      "en": "to go / to walk",
+      "type": "verb",
+      "example": "Wir gehen zum Bahnhof.",
+      "quizQ": "Translate: gehen",
+      "quizA": [
+        "to go",
+        "go",
+        "to walk",
+        "walk"
+      ],
+      "icon": "walk"
+    }
+  ],
+  "grammar": [
+    "Imperative (Sie): Gehen Sie geradeaus.",
+    "Preposition zu + dative: Ich gehe zum Bahnhof.",
+    "Questions with wo?: Wo ist die Haltestelle?",
+    "Sequencing with dann: Erst links, dann rechts.",
+    "Word order: Heute gehen wir in die Stadt."
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-09T22:01:41Z",
+    "topic": "Getting around the city"
+  }
+}
