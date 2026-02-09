@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en"><head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>German Flashcards (A2)</title>
+  <link rel="stylesheet" href="./assets/style.css" />
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div>
+        <h1>German Flashcards (A2)</h1>
+        <div class="sub" id="date">Date: —</div>
+      </div>
+      <div class="pill">
+        <div class="badge" id="count">0 / 0 learned</div>
+        <div class="progress"><div class="bar" id="bar"></div></div>
+        <button class="btn" id="markAll">Mark all learned</button>
+      </div>
+    </header>
+
+    <main>
+      <div class="panel">
+        <h2>Flashcards</h2>
+        <div class="note">Tap a card to flip • Do the quiz • Progress is saved in your browser</div>
+        <div class="grid" id="cards"></div>
+        <div class="note" id="error"></div>
+      </div>
+      <div class="panel">
+        <h2>Mini‑Quiz</h2>
+        <div id="quiz"></div>
+        <div class="row"><button class="btn" id="check">Check</button><button class="btn" id="reset">Reset</button></div>
+      </div>
+      <div class="panel">
+        <h2>Grammar (A2)</h2>
+        <div id="grammar"></div>
+      </div>
+      <div class="panel">
+        <h2>Archive</h2>
+        <div class="note">Hourly: <a href="./hourly/" style="color:#9ae6ff">hourly/</a> • Daily: <a href="./daily/" style="color:#d6bcfa">daily/</a></div>
+      </div>
+    </main>
+  </div>
+  <script src="./assets/app.js"></script>
+</body></html>
