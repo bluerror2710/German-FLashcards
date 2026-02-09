@@ -1,0 +1,81 @@
+{
+  "level": "A2",
+  "lesson": 6,
+  "title": "A2 • Lesson 006",
+  "words": [
+    {
+      "id": "der_termin",
+      "de": "der Termin",
+      "en": "appointment",
+      "type": "noun • der",
+      "example": "Ich habe morgen einen Termin.",
+      "quizQ": "What does 'der Termin' mean?",
+      "quizA": [
+        "appointment"
+      ],
+      "icon": "time"
+    },
+    {
+      "id": "verschieben",
+      "de": "verschieben",
+      "en": "to postpone",
+      "type": "verb",
+      "example": "Kannst du den Termin verschieben?",
+      "quizQ": "Translate: verschieben",
+      "quizA": [
+        "to postpone",
+        "postpone"
+      ],
+      "icon": "time"
+    },
+    {
+      "id": "die_zeitung",
+      "de": "die Zeitung",
+      "en": "newspaper",
+      "type": "noun • die",
+      "example": "Ich lese die Zeitung am Morgen.",
+      "quizQ": "Translate: die Zeitung",
+      "quizA": [
+        "newspaper"
+      ],
+      "icon": "chat"
+    },
+    {
+      "id": "puenktlich",
+      "de": "pünktlich",
+      "en": "on time / punctual",
+      "type": "adjective",
+      "example": "Bitte sei pünktlich.",
+      "quizQ": "Translate: pünktlich",
+      "quizA": [
+        "punctual",
+        "on time"
+      ],
+      "icon": "time"
+    },
+    {
+      "id": "sich_treffen",
+      "de": "sich treffen",
+      "en": "to meet",
+      "type": "verb (reflexive)",
+      "example": "Wir treffen uns um 18 Uhr.",
+      "quizQ": "Translate: Wir treffen uns um 18 Uhr.",
+      "quizA": [
+        "we meet at 6 pm",
+        "we are meeting at 6 pm"
+      ],
+      "icon": "chat"
+    }
+  ],
+  "grammar": [
+    "Reflexive verbs: Wir treffen uns.",
+    "Future with werden: Morgen werde ich arbeiten.",
+    "Prepositions for time: um 8 Uhr / am Montag / im Februar.",
+    "Modal verb + infinitive: Ich kann den Termin verschieben.",
+    "weil + verb last: …, weil ich keine Zeit habe."
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-09T21:01:59Z",
+    "topic": "Appointments and plans"
+  }
+}

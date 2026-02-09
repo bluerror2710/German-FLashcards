@@ -1,0 +1,81 @@
+{
+  "level": "B1",
+  "lesson": 6,
+  "title": "B1 • Lesson 006",
+  "words": [
+    {
+      "id": "die_besprechung",
+      "de": "die Besprechung",
+      "en": "meeting",
+      "type": "noun • die",
+      "example": "Die Besprechung beginnt um neun.",
+      "quizQ": "Translate: die Besprechung",
+      "quizA": [
+        "meeting"
+      ],
+      "icon": "work"
+    },
+    {
+      "id": "die_rueckmeldung",
+      "de": "die Rückmeldung",
+      "en": "feedback/response",
+      "type": "noun • die",
+      "example": "Danke für die Rückmeldung.",
+      "quizQ": "Translate: die Rückmeldung",
+      "quizA": [
+        "feedback",
+        "response"
+      ],
+      "icon": "chat"
+    },
+    {
+      "id": "erreichen",
+      "de": "erreichen",
+      "en": "to reach/achieve",
+      "type": "verb",
+      "example": "Ich kann dich später erreichen.",
+      "quizQ": "Translate: erreichen",
+      "quizA": [
+        "to reach",
+        "reach"
+      ],
+      "icon": "phone"
+    },
+    {
+      "id": "obwohl",
+      "de": "obwohl",
+      "en": "although",
+      "type": "conjunction",
+      "example": "Obwohl es spät ist, arbeite ich weiter.",
+      "quizQ": "Translate: obwohl",
+      "quizA": [
+        "although",
+        "even though"
+      ],
+      "icon": "id"
+    },
+    {
+      "id": "zuverlaessig",
+      "de": "zuverlässig",
+      "en": "reliable",
+      "type": "adjective",
+      "example": "Sie ist sehr zuverlässig.",
+      "quizQ": "Translate: zuverlässig",
+      "quizA": [
+        "reliable"
+      ],
+      "icon": "check"
+    }
+  ],
+  "grammar": [
+    "Subordinate clause with obwohl: Obwohl …, … (verb last).",
+    "Reported speech (basic): Er sagt, dass …",
+    "Relative clauses: der Kollege, der …",
+    "Verb + zu infinitive: Ich versuche, pünktlich zu sein.",
+    "Adjective comparison: zuverlässig → zuverlässiger."
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-09T21:01:59Z",
+    "topic": "Work and communication"
+  }
+}

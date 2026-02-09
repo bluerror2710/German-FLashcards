@@ -1,0 +1,82 @@
+{
+  "level": "B2",
+  "lesson": 6,
+  "title": "B2 • Lesson 006",
+  "words": [
+    {
+      "id": "die_voraussetzung",
+      "de": "die Voraussetzung",
+      "en": "prerequisite",
+      "type": "noun • die",
+      "example": "Eine Voraussetzung ist Erfahrung.",
+      "quizQ": "Translate: die Voraussetzung",
+      "quizA": [
+        "prerequisite",
+        "requirement"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "gleichzeitig",
+      "de": "gleichzeitig",
+      "en": "simultaneously",
+      "type": "adverb",
+      "example": "Er arbeitet und studiert gleichzeitig.",
+      "quizQ": "Translate: gleichzeitig",
+      "quizA": [
+        "simultaneously",
+        "at the same time"
+      ],
+      "icon": "time"
+    },
+    {
+      "id": "die_einschaetzung",
+      "de": "die Einschätzung",
+      "en": "assessment/estimate",
+      "type": "noun • die",
+      "example": "Meine Einschätzung ist anders.",
+      "quizQ": "Translate: die Einschätzung",
+      "quizA": [
+        "assessment",
+        "estimate"
+      ],
+      "icon": "id"
+    },
+    {
+      "id": "widersprechen",
+      "de": "widersprechen",
+      "en": "to contradict/disagree",
+      "type": "verb",
+      "example": "Ich muss dir da widersprechen.",
+      "quizQ": "Translate: widersprechen",
+      "quizA": [
+        "to contradict",
+        "to disagree"
+      ],
+      "icon": "chat"
+    },
+    {
+      "id": "inwiefern",
+      "de": "inwiefern",
+      "en": "to what extent",
+      "type": "adverb",
+      "example": "Inwiefern hast du Recht?",
+      "quizQ": "Translate: inwiefern",
+      "quizA": [
+        "to what extent"
+      ],
+      "icon": "chat"
+    }
+  ],
+  "grammar": [
+    "Advanced question word: Inwiefern …?",
+    "Verb government: jdm. widersprechen (Dativ).",
+    "Participle constructions (intro): Gleichzeitig arbeitend, …",
+    "Concessive connectors: dennoch / allerdings / gleichwohl.",
+    "Nominal style: die Einschätzung, die Voraussetzung."
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-09T21:01:59Z",
+    "topic": "Argumentation and nuance"
+  }
+}

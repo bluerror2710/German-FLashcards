@@ -1,0 +1,79 @@
+{
+  "level": "A1",
+  "lesson": 6,
+  "title": "A1 • Lesson 006",
+  "words": [
+    {
+      "id": "das_brot",
+      "de": "das Brot",
+      "en": "bread",
+      "type": "noun • das",
+      "example": "Ich kaufe Brot.",
+      "quizQ": "What does 'das Brot' mean?",
+      "quizA": [
+        "bread"
+      ],
+      "icon": "food"
+    },
+    {
+      "id": "der_apfel",
+      "de": "der Apfel",
+      "en": "apple",
+      "type": "noun • der",
+      "example": "Der Apfel ist frisch.",
+      "quizQ": "Translate: der Apfel",
+      "quizA": [
+        "apple"
+      ],
+      "icon": "food"
+    },
+    {
+      "id": "die_milch",
+      "de": "die Milch",
+      "en": "milk",
+      "type": "noun • die",
+      "example": "Die Milch ist im Kühlschrank.",
+      "quizQ": "What does 'die Milch' mean?",
+      "quizA": [
+        "milk"
+      ],
+      "icon": "food"
+    },
+    {
+      "id": "billig",
+      "de": "billig",
+      "en": "cheap",
+      "type": "adjective",
+      "example": "Das ist billig.",
+      "quizQ": "Translate: billig",
+      "quizA": [
+        "cheap"
+      ],
+      "icon": "money"
+    },
+    {
+      "id": "kaufen",
+      "de": "kaufen",
+      "en": "to buy",
+      "type": "verb",
+      "example": "Wir kaufen Obst.",
+      "quizQ": "Translate: kaufen",
+      "quizA": [
+        "to buy",
+        "buy"
+      ],
+      "icon": "money"
+    }
+  ],
+  "grammar": [
+    "Akkusativ (basic): Ich kaufe einen Apfel.",
+    "Adjectives (no endings): Das Brot ist frisch.",
+    "Questions with wie viel?: Wie viel kostet das?",
+    "Negation with kein: Ich habe keine Milch.",
+    "Word order: Heute kaufe ich Brot."
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-09T21:01:59Z",
+    "topic": "At the supermarket"
+  }
+}
