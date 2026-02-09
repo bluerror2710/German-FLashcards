@@ -1,45 +1,71 @@
 <!doctype html>
-<html lang="en"><head>
+<html lang="en">
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>German Flashcards (A2)</title>
   <link rel="stylesheet" href="./assets/style.css" />
 </head>
 <body>
-  <div class="wrap">
-    <header>
-      <div>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="brand">
         <h1>German Flashcards (A2)</h1>
-        <div class="sub" id="date">Date: —</div>
+        <div class="sub">Pick a day on the left, then an hour. Your progress saves locally.</div>
       </div>
-      <div class="pill">
-        <div class="badge" id="count">0 / 0 learned</div>
-        <div class="progress"><div class="bar" id="bar"></div></div>
-        <button class="btn" id="markAll">Mark all learned</button>
-      </div>
-    </header>
 
-    <main>
+      <div class="sectionTitle">Daily reviews</div>
+      <div class="navList" id="dailyList"></div>
+
+      <div class="sectionTitle">Hourly lessons</div>
+      <div class="navList" id="hourlyList"></div>
+
+      <div class="sectionTitle" id="hourSubTitle">Hours</div>
+      <div class="navList" id="hourSub"></div>
+
+      <div class="small" id="errorTop"></div>
+    </aside>
+
+    <main class="main">
+      <header>
+        <div>
+          <h2 id="lessonTitle">Lesson</h2>
+          <div class="sub" id="lessonMeta">—</div>
+        </div>
+        <div class="pill">
+          <div class="badge" id="count">0 / 0 learned</div>
+          <div class="progress"><div class="bar" id="bar"></div></div>
+          <button class="btn" id="markAll">Mark all learned</button>
+        </div>
+      </header>
+
       <div class="panel">
-        <h2>Flashcards</h2>
-        <div class="note">Tap a card to flip • Do the quiz • Progress is saved in your browser</div>
+        <h3>Flashcards</h3>
+        <div class="note">Tap a card to flip • Learn first, then quiz</div>
         <div class="grid" id="cards"></div>
-        <div class="note" id="error"></div>
       </div>
+
       <div class="panel">
-        <h2>Mini‑Quiz</h2>
+        <h3>Mini‑Quiz</h3>
         <div id="quiz"></div>
-        <div class="row"><button class="btn" id="check">Check</button><button class="btn" id="reset">Reset</button></div>
+        <div class="row">
+          <button class="btn" id="check">Check</button>
+          <button class="btn" id="reset">Reset</button>
+        </div>
       </div>
+
       <div class="panel">
-        <h2>Grammar (A2)</h2>
+        <h3>Grammar (A2)</h3>
         <div id="grammar"></div>
       </div>
+
       <div class="panel">
-        <h2>Archive</h2>
-        <div class="note">Hourly: <a href="./hourly/" style="color:#9ae6ff">hourly/</a> • Daily: <a href="./daily/" style="color:#d6bcfa">daily/</a></div>
+        <h3>Archive files</h3>
+        <div class="note">Raw HTML pages: <a href="./hourly/" style="color:#9ae6ff">hourly/</a> • <a href="./daily/" style="color:#d6bcfa">daily/</a></div>
       </div>
     </main>
   </div>
+
   <script src="./assets/app.js"></script>
-</body></html>
+</body>
+</html>
