@@ -185,17 +185,35 @@ function renderSidebar(index){
   const levels = index.levels || {};
   const levelList = document.getElementById('levelList');
   const lessonList = document.getElementById('lessonList');
+  const err = document.getElementById('errorTop');
 
   levelList.innerHTML='';
   lessonList.innerHTML='';
+  err.textContent='';
 
   const levelNames = Object.keys(levels);
+  if (!levelNames.length){
+    err.textContent = 'No levels found in lessons/index.json';
+    return;
+  }
+
+  async function showLesson(level, rel, it){
+    try{
+      setActive(it, '#lessonList .navItem');
+      const app = await fetchJson(`./lessons/${rel}`);
+      renderLesson(app);
+      err.textContent='';
+    } catch(e){
+      err.textContent = `Lesson load failed: ${e}`;
+    }
+  }
 
   function showLevel(level, btnEl){
     setActive(btnEl, '#levelList .navItem');
     lessonList.innerHTML='';
+    err.textContent='';
+
     const lessons = (levels[level]?.lessons || []).slice();
-    // newest first
     lessons.sort().reverse();
 
     for(const rel of lessons){
@@ -204,18 +222,15 @@ function renderSidebar(index){
       const it = document.createElement('div');
       it.className='navItem';
       it.innerHTML = `<div><div class="name">Lesson ${num}</div><div class="meta">${level}</div></div><div class="meta">→</div>`;
-      it.onclick = async ()=>{
-        setActive(it, '#lessonList .navItem');
-        const app = await fetchJson(`./lessons/${rel}`);
-        renderLesson(app);
-      };
+      it.onclick = ()=> showLesson(level, rel, it);
       lessonList.appendChild(it);
     }
 
-    // auto load newest lesson
     if (lessons.length){
-      const newest = lessons[0];
+      // auto load first lesson
       lessonList.querySelector('.navItem')?.click();
+    } else {
+      err.textContent = `No lessons found for ${level}`;
     }
   }
 
@@ -223,11 +238,13 @@ function renderSidebar(index){
     const btn = document.createElement('div');
     btn.className='navItem';
     btn.innerHTML = `<div><div class="name">${level}</div><div class="meta">5 words + 5 grammar</div></div><div class="meta">${(levels[level]?.lessons||[]).length}</div>`;
-    btn.onclick = ()=> showLevel(level, btn);
+    btn.onclick = ()=> {
+      try{ showLevel(level, btn); }
+      catch(e){ err.textContent = `Level open failed: ${e}`; }
+    };
     levelList.appendChild(btn);
   }
 
-  // open first level
   levelList.querySelector('.navItem')?.click();
 }
 
