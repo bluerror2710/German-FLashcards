@@ -1,0 +1,76 @@
+{
+  "level": "B1",
+  "lesson": 4,
+  "title": "B1 • Lesson 004",
+  "words": [
+    {
+      "id": "die_entscheidung",
+      "de": "die Entscheidung",
+      "en": "decision",
+      "type": "noun • die",
+      "example": "Das ist eine schwierige Entscheidung.",
+      "quizQ": "Translate: die Entscheidung",
+      "quizA": [
+        "decision"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "erreichen",
+      "de": "erreichen",
+      "en": "to reach/achieve",
+      "type": "verb",
+      "example": "Ich möchte mein Ziel erreichen.",
+      "quizQ": "Translate: erreichen",
+      "quizA": [
+        "to reach",
+        "to achieve"
+      ],
+      "icon": "work"
+    },
+    {
+      "id": "die_erfahrung",
+      "de": "die Erfahrung",
+      "en": "experience",
+      "type": "noun • die",
+      "example": "Ich habe viel Erfahrung.",
+      "quizQ": "Translate: die Erfahrung",
+      "quizA": [
+        "experience"
+      ],
+      "icon": "work"
+    },
+    {
+      "id": "ausprobieren",
+      "de": "ausprobieren",
+      "en": "to try out",
+      "type": "verb",
+      "example": "Ich will etwas Neues ausprobieren.",
+      "quizQ": "Translate: ausprobieren",
+      "quizA": [
+        "to try",
+        "to try out"
+      ],
+      "icon": "work"
+    },
+    {
+      "id": "wahrscheinlich",
+      "de": "wahrscheinlich",
+      "en": "probably",
+      "type": "adverb",
+      "example": "Wahrscheinlich komme ich später.",
+      "quizQ": "Translate: wahrscheinlich",
+      "quizA": [
+        "probably"
+      ],
+      "icon": "time"
+    }
+  ],
+  "grammar": [
+    "Konjunktiv II polite: Ich hätte gern …",
+    "wenn … dann (word order)",
+    "Relative clauses (basic): der Mann, der …",
+    "zu + infinitive: Ich habe vor, mehr zu lernen.",
+    "Comparatives: besser / schneller / wichtiger."
+  ]
+}

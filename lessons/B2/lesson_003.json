@@ -1,0 +1,74 @@
+{
+  "level": "B2",
+  "lesson": 3,
+  "title": "B2 • Lesson 003",
+  "words": [
+    {
+      "id": "vermeiden",
+      "de": "vermeiden",
+      "en": "to avoid",
+      "type": "verb",
+      "example": "Ich möchte Fehler vermeiden.",
+      "quizQ": "Translate: vermeiden",
+      "quizA": [
+        "to avoid"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "die_herausforderung",
+      "de": "die Herausforderung",
+      "en": "challenge",
+      "type": "noun • die",
+      "example": "Das ist eine große Herausforderung.",
+      "quizQ": "Translate: die Herausforderung",
+      "quizA": [
+        "challenge"
+      ],
+      "icon": "work"
+    },
+    {
+      "id": "unabhaengig",
+      "de": "unabhängig",
+      "en": "independent",
+      "type": "adjective",
+      "example": "Ich will unabhängig sein.",
+      "quizQ": "Translate: unabhängig",
+      "quizA": [
+        "independent"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "insofern",
+      "de": "insofern",
+      "en": "insofar",
+      "type": "adverb",
+      "example": "Insofern stimme ich dir zu.",
+      "quizQ": "Translate: insofern",
+      "quizA": [
+        "insofar"
+      ],
+      "icon": "chat"
+    },
+    {
+      "id": "die_umsetzung",
+      "de": "die Umsetzung",
+      "en": "implementation",
+      "type": "noun • die",
+      "example": "Die Umsetzung dauert länger.",
+      "quizQ": "Translate: die Umsetzung",
+      "quizA": [
+        "implementation"
+      ],
+      "icon": "work"
+    }
+  ],
+  "grammar": [
+    "Passive voice: Es wird gesagt, dass …",
+    "N‑declension (advanced nouns): des Kunden, dem Kunden …",
+    "Advanced connectors: hingegen / insofern / dennoch",
+    "Konjunktiv II for hypotheses: Wenn ich mehr Zeit hätte, …",
+    "Nominalization: die Entscheidung, die Umsetzung."
+  ]
+}

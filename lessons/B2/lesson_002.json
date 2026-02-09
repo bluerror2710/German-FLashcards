@@ -1,0 +1,76 @@
+{
+  "level": "B2",
+  "lesson": 2,
+  "title": "B2 • Lesson 002",
+  "words": [
+    {
+      "id": "die_voraussetzung",
+      "de": "die Voraussetzung",
+      "en": "prerequisite",
+      "type": "noun • die",
+      "example": "Das ist eine wichtige Voraussetzung.",
+      "quizQ": "Translate: die Voraussetzung",
+      "quizA": [
+        "prerequisite"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "nachvollziehbar",
+      "de": "nachvollziehbar",
+      "en": "understandable",
+      "type": "adjective",
+      "example": "Das ist nachvollziehbar.",
+      "quizQ": "Translate: nachvollziehbar",
+      "quizA": [
+        "understandable"
+      ],
+      "icon": "chat"
+    },
+    {
+      "id": "sich_durchsetzen",
+      "de": "sich durchsetzen",
+      "en": "to assert oneself",
+      "type": "verb",
+      "example": "Man muss sich durchsetzen.",
+      "quizQ": "Translate: sich durchsetzen",
+      "quizA": [
+        "to assert oneself"
+      ],
+      "icon": "work"
+    },
+    {
+      "id": "die_auswirkung",
+      "de": "die Auswirkung",
+      "en": "impact/effect",
+      "type": "noun • die",
+      "example": "Das hat große Auswirkungen.",
+      "quizQ": "Translate: die Auswirkung",
+      "quizA": [
+        "impact",
+        "effect"
+      ],
+      "icon": "work"
+    },
+    {
+      "id": "hingegen",
+      "de": "hingegen",
+      "en": "whereas",
+      "type": "conjunction/adverb",
+      "example": "Er ist pünktlich, ich hingegen nicht.",
+      "quizQ": "Translate: hingegen",
+      "quizA": [
+        "whereas",
+        "on the other hand"
+      ],
+      "icon": "chat"
+    }
+  ],
+  "grammar": [
+    "Passive voice: Es wird gesagt, dass …",
+    "N‑declension (advanced nouns): des Kunden, dem Kunden …",
+    "Advanced connectors: hingegen / insofern / dennoch",
+    "Konjunktiv II for hypotheses: Wenn ich mehr Zeit hätte, …",
+    "Nominalization: die Entscheidung, die Umsetzung."
+  ]
+}

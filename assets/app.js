@@ -7,14 +7,23 @@ const norm = (s) => (s||'')
 function iconSvg(kind){
   const s = (inner)=>`<svg viewBox="0 0 100 100" aria-hidden="true">${inner}</svg>`;
   switch(kind){
-    case 'station':
-      return s(`<rect class="s" x="12" y="34" width="76" height="44" rx="7"/><polygon class="s" points="12,34 50,14 88,34"/><line class="s" x1="26" y1="78" x2="26" y2="52"/><line class="s" x1="44" y1="78" x2="44" y2="52"/><line class="s" x1="62" y1="78" x2="62" y2="52"/><line class="s" x1="80" y1="78" x2="80" y2="52"/>`);
-    case 'delay':
-      return s(`<circle class="s" cx="50" cy="50" r="30"/><line class="s" x1="50" y1="50" x2="50" y2="34"/><line class="s" x1="50" y1="50" x2="64" y2="60"/><line class="s" x1="18" y1="86" x2="82" y2="86"/>`);
-    case 'pay':
-      return s(`<rect class="s" x="14" y="28" width="72" height="44" rx="10"/><line class="s" x1="22" y1="40" x2="78" y2="40"/><circle class="s" cx="74" cy="60" r="6"/>`);
-    case 'calendar':
-      return s(`<rect class="s" x="16" y="22" width="68" height="62" rx="10"/><line class="s" x1="16" y1="36" x2="84" y2="36"/><path class="s" d="M30,58 L42,70 L70,46"/>`);
+    case 'travel':
+      return s(`<path class="s" d="M15,70 L85,70"/><path class="s" d="M30,70 L50,30 L70,70"/><path class="s" d="M42,55 L58,55"/>`);
+    case 'time':
+      return s(`<circle class="s" cx="50" cy="50" r="30"/><line class="s" x1="50" y1="50" x2="50" y2="32"/><line class="s" x1="50" y1="50" x2="66" y2="58"/>`);
+    case 'money':
+      return s(`<rect class="s" x="18" y="30" width="64" height="40" rx="10"/><circle class="s" cx="50" cy="50" r="9"/>`);
+    case 'health':
+      return s(`<path class="s" d="M50,76 C25,60 20,45 28,36 C34,30 44,32 50,40 C56,32 66,30 72,36 C80,45 75,60 50,76 Z"/>`);
+    case 'home':
+      return s(`<polygon class="s" points="20,48 50,24 80,48"/><rect class="s" x="30" y="48" width="40" height="28" rx="4"/><line class="s" x1="50" y1="76" x2="50" y2="60"/>`);
+    case 'work':
+      return s(`<rect class="s" x="22" y="38" width="56" height="40" rx="8"/><path class="s" d="M38,38 L38,30 L62,30 L62,38"/><line class="s" x1="22" y1="54" x2="78" y2="54"/>`);
+    case 'food':
+      return s(`<path class="s" d="M35,25 L35,75"/><path class="s" d="M45,25 L45,75"/><path class="s" d="M65,25 C55,35 55,45 65,55 C75,65 75,75 65,75"/>`);
+    case 'chat':
+      return s(`<path class="s" d="M20,30 H80 V62 H42 L30,74 V62 H20 Z"/>`);
+    case 'check':
     default:
       return s(`<circle class="s" cx="50" cy="50" r="30"/><path class="s" d="M30,50 L44,64 L72,36"/>`);
   }
@@ -26,22 +35,6 @@ async function fetchJson(path){
   return await res.json();
 }
 
-function groupHourly(files){
-  // expects filenames like YYYY-MM-DD_HH-MM_...
-  const byDay = {};
-  for(const f of files){
-    const m = f.match(/^(\d{4}-\d{2}-\d{2})_(\d{2}-\d{2})/);
-    if(!m) continue;
-    const day = m[1];
-    const hm = m[2].replace('-',':');
-    (byDay[day] ||= []).push({hm, file:f});
-  }
-  for(const day of Object.keys(byDay)){
-    byDay[day].sort((a,b)=> a.hm.localeCompare(b.hm));
-  }
-  return byDay;
-}
-
 function setActive(el, selector){
   document.querySelectorAll(selector).forEach(x=>x.classList.remove('active'));
   if(el) el.classList.add('active');
@@ -49,7 +42,7 @@ function setActive(el, selector){
 
 function renderLesson(app){
   const words = app.words || [];
-  const learnedKey = `learned_${app.date || 'unknown'}`;
+  const learnedKey = `learned_${app.level}_${String(app.lesson).padStart(3,'0')}`;
   const learned = new Set(JSON.parse(localStorage.getItem(learnedKey) || '[]'));
 
   const cardsEl = document.getElementById('cards');
@@ -71,7 +64,7 @@ function renderLesson(app){
     const card = document.createElement('div');
     card.className = 'card';
 
-    const icon = w.icon ? iconSvg(w.icon) : iconSvg('check');
+    const icon = iconSvg(w.icon || 'check');
 
     const front = document.createElement('div');
     front.className = 'face front';
@@ -174,7 +167,7 @@ function renderLesson(app){
   };
 
   document.getElementById('lessonTitle').textContent = app.title || 'Lesson';
-  document.getElementById('lessonMeta').textContent = app.date ? `Date: ${app.date}` : '';
+  document.getElementById('lessonMeta').textContent = `${app.level || ''} • Lesson ${String(app.lesson||'').padStart(3,'0')}`;
 
   const gEl = document.getElementById('grammar');
   gEl.innerHTML = '';
@@ -189,61 +182,60 @@ function renderLesson(app){
 }
 
 function renderSidebar(index){
-  const dailyEl = document.getElementById('dailyList');
-  const hourlyEl = document.getElementById('hourlyList');
+  const levels = index.levels || {};
+  const levelList = document.getElementById('levelList');
+  const lessonList = document.getElementById('lessonList');
 
-  const daily = (index.daily || []).slice().sort().reverse();
-  const hourlyGrouped = groupHourly(index.hourly || []);
-  const days = Object.keys(hourlyGrouped).sort().reverse();
+  levelList.innerHTML='';
+  lessonList.innerHTML='';
 
-  dailyEl.innerHTML='';
-  for(const day of daily){
-    const el = document.createElement('div');
-    el.className = 'navItem';
-    el.innerHTML = `<div><div class="name">${day}</div><div class="meta">Daily review</div></div><div class="meta">→</div>`;
-    el.onclick = async ()=>{
-      setActive(el, '#dailyList .navItem');
-      const app = await fetchJson(`./daily/${day}.json`);
-      renderLesson(app);
-    };
-    dailyEl.appendChild(el);
+  const levelNames = Object.keys(levels);
+
+  function showLevel(level, btnEl){
+    setActive(btnEl, '#levelList .navItem');
+    lessonList.innerHTML='';
+    const lessons = (levels[level]?.lessons || []).slice();
+    // newest first
+    lessons.sort().reverse();
+
+    for(const rel of lessons){
+      const m = rel.match(/lesson_(\d{3})\.json$/);
+      const num = m ? m[1] : rel;
+      const it = document.createElement('div');
+      it.className='navItem';
+      it.innerHTML = `<div><div class="name">Lesson ${num}</div><div class="meta">${level}</div></div><div class="meta">→</div>`;
+      it.onclick = async ()=>{
+        setActive(it, '#lessonList .navItem');
+        const app = await fetchJson(`./lessons/${rel}`);
+        renderLesson(app);
+      };
+      lessonList.appendChild(it);
+    }
+
+    // auto load newest lesson
+    if (lessons.length){
+      const newest = lessons[0];
+      lessonList.querySelector('.navItem')?.click();
+    }
   }
 
-  hourlyEl.innerHTML='';
-  for(const day of days){
-    const el = document.createElement('div');
-    el.className = 'navItem';
-    el.innerHTML = `<div><div class="name">${day}</div><div class="meta">Hourly lessons</div></div><div class="meta">${hourlyGrouped[day].length}</div>`;
-    el.onclick = ()=>{
-      // expand sublist
-      const box = document.getElementById('hourSub');
-      box.innerHTML = '';
-      document.getElementById('hourSubTitle').textContent = `Hours on ${day}`;
-      for(const h of hourlyGrouped[day].slice().reverse()){
-        const it = document.createElement('div');
-        it.className = 'navItem';
-        it.innerHTML = `<div><div class="name">${h.hm}</div><div class="meta">Lesson</div></div><div class="meta">→</div>`;
-        it.onclick = async ()=>{
-          setActive(it, '#hourSub .navItem');
-          const app = await fetchJson(`./hourly/${h.file.replace(/\.html$/,'')}.json`);
-          renderLesson(app);
-        };
-        box.appendChild(it);
-      }
-    };
-    hourlyEl.appendChild(el);
+  for(const level of levelNames){
+    const btn = document.createElement('div');
+    btn.className='navItem';
+    btn.innerHTML = `<div><div class="name">${level}</div><div class="meta">5 words + 5 grammar</div></div><div class="meta">${(levels[level]?.lessons||[]).length}</div>`;
+    btn.onclick = ()=> showLevel(level, btn);
+    levelList.appendChild(btn);
   }
+
+  // open first level
+  levelList.querySelector('.navItem')?.click();
 }
 
 (async ()=>{
   try{
-    const index = await fetchJson('./data/index.json');
+    const index = await fetchJson('./lessons/index.json');
     renderSidebar(index);
-
-    // load latest by default
-    const latest = await fetchJson('./data/latest.json');
-    renderLesson(latest);
   } catch (e){
-    document.getElementById('errorTop').textContent = 'No data yet. Come back after the next batch.';
+    document.getElementById('errorTop').textContent = 'No lessons yet. Wait for the next generation.';
   }
 })();

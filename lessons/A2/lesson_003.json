@@ -1,0 +1,76 @@
+{
+  "level": "A2",
+  "lesson": 3,
+  "title": "A2 • Lesson 003",
+  "words": [
+    {
+      "id": "sich_fuehlen",
+      "de": "sich fühlen",
+      "en": "to feel",
+      "type": "verb",
+      "example": "Ich fühle mich gut.",
+      "quizQ": "Translate: Ich fühle mich gut.",
+      "quizA": [
+        "i feel good"
+      ],
+      "icon": "health"
+    },
+    {
+      "id": "die_rechnung",
+      "de": "die Rechnung",
+      "en": "bill",
+      "type": "noun • die",
+      "example": "Kann ich die Rechnung haben?",
+      "quizQ": "What does 'die Rechnung' mean?",
+      "quizA": [
+        "bill"
+      ],
+      "icon": "money"
+    },
+    {
+      "id": "abholen",
+      "de": "abholen",
+      "en": "to pick up",
+      "type": "verb (separable)",
+      "example": "Ich hole dich um 8 Uhr ab.",
+      "quizQ": "Which verb is separable here?",
+      "quizA": [
+        "abholen"
+      ],
+      "icon": "travel"
+    },
+    {
+      "id": "der_alltag",
+      "de": "der Alltag",
+      "en": "everyday life",
+      "type": "noun • der",
+      "example": "Im Alltag spreche ich Deutsch.",
+      "quizQ": "Translate: der Alltag",
+      "quizA": [
+        "everyday life",
+        "daily life"
+      ],
+      "icon": "home"
+    },
+    {
+      "id": "trotzdem",
+      "de": "trotzdem",
+      "en": "nevertheless",
+      "type": "adverb",
+      "example": "Es regnet, trotzdem gehe ich raus.",
+      "quizQ": "Translate: trotzdem",
+      "quizA": [
+        "nevertheless",
+        "still"
+      ],
+      "icon": "chat"
+    }
+  ],
+  "grammar": [
+    "Perfekt: Ich habe gelernt.",
+    "Separable verbs: abholen → ich hole … ab.",
+    "weil (word order): …, weil ich müde bin.",
+    "Dativ with 'mit': mit dem Zug.",
+    "Modal verbs: ich muss / ich kann."
+  ]
+}

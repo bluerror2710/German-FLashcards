@@ -1,0 +1,75 @@
+{
+  "level": "B1",
+  "lesson": 5,
+  "title": "B1 • Lesson 005",
+  "words": [
+    {
+      "id": "die_verantwortung",
+      "de": "die Verantwortung",
+      "en": "responsibility",
+      "type": "noun • die",
+      "example": "Ich trage Verantwortung.",
+      "quizQ": "Translate: die Verantwortung",
+      "quizA": [
+        "responsibility"
+      ],
+      "icon": "work"
+    },
+    {
+      "id": "sich_beschweren",
+      "de": "sich beschweren",
+      "en": "to complain",
+      "type": "verb",
+      "example": "Ich möchte mich beschweren.",
+      "quizQ": "Translate: sich beschweren",
+      "quizA": [
+        "to complain"
+      ],
+      "icon": "chat"
+    },
+    {
+      "id": "die_moeglichkeit",
+      "de": "die Möglichkeit",
+      "en": "possibility",
+      "type": "noun • die",
+      "example": "Es gibt viele Möglichkeiten.",
+      "quizQ": "Translate: die Möglichkeit",
+      "quizA": [
+        "possibility"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "stattdessen",
+      "de": "stattdessen",
+      "en": "instead",
+      "type": "adverb",
+      "example": "Ich nehme Tee statt Kaffee, stattdessen Wasser.",
+      "quizQ": "Translate: stattdessen",
+      "quizA": [
+        "instead"
+      ],
+      "icon": "food"
+    },
+    {
+      "id": "der_zusammenhang",
+      "de": "der Zusammenhang",
+      "en": "connection/context",
+      "type": "noun • der",
+      "example": "Im Zusammenhang mit …",
+      "quizQ": "Translate: der Zusammenhang",
+      "quizA": [
+        "connection",
+        "context"
+      ],
+      "icon": "id"
+    }
+  ],
+  "grammar": [
+    "Konjunktiv II polite: Ich hätte gern …",
+    "wenn … dann (word order)",
+    "Relative clauses (basic): der Mann, der …",
+    "zu + infinitive: Ich habe vor, mehr zu lernen.",
+    "Comparatives: besser / schneller / wichtiger."
+  ]
+}

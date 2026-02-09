@@ -1,0 +1,78 @@
+{
+  "level": "A2",
+  "lesson": 2,
+  "title": "A2 • Lesson 002",
+  "words": [
+    {
+      "id": "der_bahnhof",
+      "de": "der Bahnhof",
+      "en": "station",
+      "type": "noun • der",
+      "example": "Ich warte am Bahnhof.",
+      "quizQ": "What does 'der Bahnhof' mean?",
+      "quizA": [
+        "station",
+        "train station"
+      ],
+      "icon": "travel"
+    },
+    {
+      "id": "die_verspaetung",
+      "de": "die Verspätung",
+      "en": "delay",
+      "type": "noun • die",
+      "example": "Der Zug hat Verspätung.",
+      "quizQ": "Fill: Der Zug hat ___.",
+      "quizA": [
+        "verspätung",
+        "verspaetung"
+      ],
+      "icon": "time"
+    },
+    {
+      "id": "bezahlen",
+      "de": "bezahlen",
+      "en": "to pay",
+      "type": "verb",
+      "example": "Kann ich mit Karte bezahlen?",
+      "quizQ": "Translate: Kann ich mit Karte bezahlen?",
+      "quizA": [
+        "can i pay by card",
+        "can i pay with a card"
+      ],
+      "icon": "money"
+    },
+    {
+      "id": "der_termin",
+      "de": "der Termin",
+      "en": "appointment",
+      "type": "noun • der",
+      "example": "Ich habe einen Termin.",
+      "quizQ": "Which word means appointment?",
+      "quizA": [
+        "termin",
+        "der termin"
+      ],
+      "icon": "time"
+    },
+    {
+      "id": "zuverlaessig",
+      "de": "zuverlässig",
+      "en": "reliable",
+      "type": "adjective",
+      "example": "Er ist zuverlässig.",
+      "quizQ": "Make a sentence with zuverlässig.",
+      "quizA": [
+        "*"
+      ],
+      "icon": "check"
+    }
+  ],
+  "grammar": [
+    "Perfekt: Ich habe gelernt.",
+    "Separable verbs: abholen → ich hole … ab.",
+    "weil (word order): …, weil ich müde bin.",
+    "Dativ with 'mit': mit dem Zug.",
+    "Modal verbs: ich muss / ich kann."
+  ]
+}

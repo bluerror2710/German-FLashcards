@@ -1,0 +1,79 @@
+{
+  "level": "A1",
+  "lesson": 2,
+  "title": "A1 • Lesson 002",
+  "words": [
+    {
+      "id": "hallo",
+      "de": "Hallo",
+      "en": "hello",
+      "type": "interjection",
+      "example": "Hallo! Wie geht's?",
+      "quizQ": "Translate: Hallo",
+      "quizA": [
+        "hello",
+        "hi"
+      ],
+      "icon": "chat"
+    },
+    {
+      "id": "danke",
+      "de": "danke",
+      "en": "thanks",
+      "type": "interjection",
+      "example": "Danke für deine Hilfe.",
+      "quizQ": "Translate: danke",
+      "quizA": [
+        "thanks",
+        "thank you"
+      ],
+      "icon": "chat"
+    },
+    {
+      "id": "bitte",
+      "de": "bitte",
+      "en": "please / you’re welcome",
+      "type": "interjection",
+      "example": "Bitte, kein Problem.",
+      "quizQ": "Translate: bitte",
+      "quizA": [
+        "please",
+        "you're welcome",
+        "you are welcome"
+      ],
+      "icon": "chat"
+    },
+    {
+      "id": "der_name",
+      "de": "der Name",
+      "en": "name",
+      "type": "noun • der",
+      "example": "Wie ist dein Name?",
+      "quizQ": "What does 'der Name' mean?",
+      "quizA": [
+        "name"
+      ],
+      "icon": "id"
+    },
+    {
+      "id": "wohnen",
+      "de": "wohnen",
+      "en": "to live",
+      "type": "verb",
+      "example": "Ich wohne in Göttingen.",
+      "quizQ": "Translate: Ich wohne in Göttingen.",
+      "quizA": [
+        "i live in gottingen",
+        "i live in göttingen"
+      ],
+      "icon": "home"
+    }
+  ],
+  "grammar": [
+    "Present tense: Ich wohne in …",
+    "W-questions: Wie? Wo? Was?",
+    "Articles: der / die / das",
+    "Polite form: Ich möchte …",
+    "Negation: nicht / kein (A1 intro)"
+  ]
+}

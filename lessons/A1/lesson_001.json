@@ -1,0 +1,75 @@
+{
+  "level": "A1",
+  "lesson": 1,
+  "title": "A1 • Lesson 001",
+  "words": [
+    {
+      "id": "das_wasser",
+      "de": "das Wasser",
+      "en": "water",
+      "type": "noun • das",
+      "example": "Ich trinke Wasser.",
+      "quizQ": "What does 'das Wasser' mean?",
+      "quizA": [
+        "water"
+      ],
+      "icon": "food"
+    },
+    {
+      "id": "der_kaffee",
+      "de": "der Kaffee",
+      "en": "coffee",
+      "type": "noun • der",
+      "example": "Ich möchte einen Kaffee.",
+      "quizQ": "What does 'der Kaffee' mean?",
+      "quizA": [
+        "coffee"
+      ],
+      "icon": "food"
+    },
+    {
+      "id": "die_strasse",
+      "de": "die Straße",
+      "en": "street",
+      "type": "noun • die",
+      "example": "Die Straße ist lang.",
+      "quizQ": "Translate: die Straße",
+      "quizA": [
+        "street"
+      ],
+      "icon": "travel"
+    },
+    {
+      "id": "gehen",
+      "de": "gehen",
+      "en": "to go / walk",
+      "type": "verb",
+      "example": "Wir gehen nach Hause.",
+      "quizQ": "Translate: Wir gehen nach Hause.",
+      "quizA": [
+        "we go home",
+        "we are going home"
+      ],
+      "icon": "travel"
+    },
+    {
+      "id": "heute",
+      "de": "heute",
+      "en": "today",
+      "type": "adverb",
+      "example": "Heute habe ich Zeit.",
+      "quizQ": "Translate: heute",
+      "quizA": [
+        "today"
+      ],
+      "icon": "time"
+    }
+  ],
+  "grammar": [
+    "Present tense: Ich wohne in …",
+    "W-questions: Wie? Wo? Was?",
+    "Articles: der / die / das",
+    "Polite form: Ich möchte …",
+    "Negation: nicht / kein (A1 intro)"
+  ]
+}
