@@ -1,0 +1,80 @@
+{
+  "level": "A1",
+  "lesson": 11,
+  "title": "A1 • Lesson 011",
+  "words": [
+    {
+      "id": "der_kopf",
+      "de": "der Kopf",
+      "en": "head",
+      "type": "noun • der",
+      "example": "Mein Kopf tut weh.",
+      "quizQ": "What does 'der Kopf' mean?",
+      "quizA": [
+        "head"
+      ],
+      "icon": "health"
+    },
+    {
+      "id": "der_arzt",
+      "de": "der Arzt",
+      "en": "doctor",
+      "type": "noun • der",
+      "example": "Ich gehe zum Arzt.",
+      "quizQ": "Translate: der Arzt",
+      "quizA": [
+        "doctor"
+      ],
+      "icon": "health"
+    },
+    {
+      "id": "krank",
+      "de": "krank",
+      "en": "sick / ill",
+      "type": "adjective",
+      "example": "Ich bin krank.",
+      "quizQ": "What does 'krank' mean?",
+      "quizA": [
+        "sick",
+        "ill"
+      ],
+      "icon": "health"
+    },
+    {
+      "id": "die_hand",
+      "de": "die Hand",
+      "en": "hand",
+      "type": "noun • die",
+      "example": "Wasch dir die Hände!",
+      "quizQ": "Translate: die Hand",
+      "quizA": [
+        "hand"
+      ],
+      "icon": "health"
+    },
+    {
+      "id": "schlafen",
+      "de": "schlafen",
+      "en": "to sleep",
+      "type": "verb",
+      "example": "Ich schlafe acht Stunden.",
+      "quizQ": "What does 'schlafen' mean?",
+      "quizA": [
+        "to sleep",
+        "sleep"
+      ],
+      "icon": "health"
+    }
+  ],
+  "grammar": [
+    "Body parts use articles: der Kopf, die Hand, das Auge.",
+    "'Weh tun' = to hurt: 'Mein Bauch tut weh.'",
+    "'Zum Arzt gehen' = to go to the doctor.",
+    "Reflexive: 'Wasch dir die Hände!' (Wash your hands!)",
+    "Stem-changing verb: schlafen → ich schlafe, du schläfst."
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Body & Health"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "level": "A1",
+  "lesson": 13,
+  "title": "A1 • Lesson 013",
+  "words": [
+    {
+      "id": "die_kueche",
+      "de": "die Küche",
+      "en": "kitchen",
+      "type": "noun • die",
+      "example": "Ich koche in der Küche.",
+      "quizQ": "What does 'die Küche' mean?",
+      "quizA": [
+        "kitchen"
+      ],
+      "icon": "home"
+    },
+    {
+      "id": "der_tisch",
+      "de": "der Tisch",
+      "en": "table",
+      "type": "noun • der",
+      "example": "Das Buch liegt auf dem Tisch.",
+      "quizQ": "Translate: der Tisch",
+      "quizA": [
+        "table"
+      ],
+      "icon": "home"
+    },
+    {
+      "id": "das_bett",
+      "de": "das Bett",
+      "en": "bed",
+      "type": "noun • das",
+      "example": "Ich gehe ins Bett.",
+      "quizQ": "What does 'das Bett' mean?",
+      "quizA": [
+        "bed"
+      ],
+      "icon": "home"
+    },
+    {
+      "id": "der_stuhl",
+      "de": "der Stuhl",
+      "en": "chair",
+      "type": "noun • der",
+      "example": "Bitte setzen Sie sich auf den Stuhl.",
+      "quizQ": "Translate: der Stuhl",
+      "quizA": [
+        "chair"
+      ],
+      "icon": "home"
+    },
+    {
+      "id": "wohnen",
+      "de": "wohnen",
+      "en": "to live (reside)",
+      "type": "verb",
+      "example": "Ich wohne in München.",
+      "quizQ": "What does 'wohnen' mean?",
+      "quizA": [
+        "to live",
+        "live",
+        "reside"
+      ],
+      "icon": "home"
+    }
+  ],
+  "grammar": [
+    "Dative prepositions: in, auf, an, neben, unter, über, vor, hinter, zwischen.",
+    "'In der Küche' (dative for location) vs 'in die Küche' (accusative for direction).",
+    "Furniture is mixed gender: der Tisch, die Lampe, das Bett.",
+    "'Es gibt' + accusative: 'Es gibt einen Tisch.' (There is a table.)",
+    "Rooms: das Schlafzimmer, das Badezimmer, das Wohnzimmer."
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Home & Furniture"
+  }
+}

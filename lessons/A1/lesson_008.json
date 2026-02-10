@@ -1,0 +1,82 @@
+{
+  "level": "A1",
+  "lesson": 8,
+  "title": "A1 • Lesson 008",
+  "words": [
+    {
+      "id": "der_preis",
+      "de": "der Preis",
+      "en": "price",
+      "type": "noun • der",
+      "example": "Der Preis ist sehr hoch.",
+      "quizQ": "What does 'der Preis' mean?",
+      "quizA": [
+        "price"
+      ],
+      "icon": "money"
+    },
+    {
+      "id": "bezahlen",
+      "de": "bezahlen",
+      "en": "to pay",
+      "type": "verb",
+      "example": "Ich möchte mit Karte bezahlen.",
+      "quizQ": "Translate: bezahlen",
+      "quizA": [
+        "to pay",
+        "pay"
+      ],
+      "icon": "money"
+    },
+    {
+      "id": "das_geld",
+      "de": "das Geld",
+      "en": "money",
+      "type": "noun • das",
+      "example": "Ich habe kein Geld dabei.",
+      "quizQ": "What does 'das Geld' mean?",
+      "quizA": [
+        "money"
+      ],
+      "icon": "money"
+    },
+    {
+      "id": "billig",
+      "de": "billig",
+      "en": "cheap",
+      "type": "adjective",
+      "example": "Das T-Shirt ist billig.",
+      "quizQ": "Translate: billig",
+      "quizA": [
+        "cheap",
+        "inexpensive"
+      ],
+      "icon": "money"
+    },
+    {
+      "id": "die_kasse",
+      "de": "die Kasse",
+      "en": "checkout / cash register",
+      "type": "noun • die",
+      "example": "Bitte gehen Sie zur Kasse.",
+      "quizQ": "What does 'die Kasse' mean?",
+      "quizA": [
+        "checkout",
+        "cash register",
+        "register"
+      ],
+      "icon": "money"
+    }
+  ],
+  "grammar": [
+    "Use 'kosten' (to cost): 'Was kostet das?' = How much does that cost?",
+    "Accusative after 'für': 'Das ist für meinen Bruder.'",
+    "Numbers 1-100: eins, zwei, drei… zwanzig, dreißig…",
+    "'Möchten' (would like) is used for polite requests in shops.",
+    "Plural forms: der Preis → die Preise, das Geld (no plural)."
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Shopping & Money"
+  }
+}

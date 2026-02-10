@@ -1,0 +1,80 @@
+{
+  "level": "B1",
+  "lesson": 12,
+  "title": "B1 • Lesson 012",
+  "words": [
+    {
+      "id": "die_regierung",
+      "de": "die Regierung",
+      "en": "government",
+      "type": "noun • die",
+      "example": "Die Regierung hat ein neues Gesetz beschlossen.",
+      "quizQ": "What does 'die Regierung' mean?",
+      "quizA": [
+        "government"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "die_wahl",
+      "de": "die Wahl",
+      "en": "election",
+      "type": "noun • die",
+      "example": "Die Wahl findet im September statt.",
+      "quizQ": "Translate: die Wahl",
+      "quizA": [
+        "election"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "beschliessen",
+      "de": "beschließen",
+      "en": "to decide / to pass (a law)",
+      "type": "verb",
+      "example": "Das Parlament beschließt neue Gesetze.",
+      "quizQ": "What does 'beschließen' mean?",
+      "quizA": [
+        "to decide",
+        "decide",
+        "to pass"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "der_buerger",
+      "de": "der Bürger",
+      "en": "citizen",
+      "type": "noun • der",
+      "example": "Jeder Bürger hat das Recht zu wählen.",
+      "quizQ": "Translate: der Bürger",
+      "quizA": [
+        "citizen"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "die_demokratie",
+      "de": "die Demokratie",
+      "en": "democracy",
+      "type": "noun • die",
+      "example": "Deutschland ist eine Demokratie.",
+      "quizQ": "What does 'die Demokratie' mean?",
+      "quizA": [
+        "democracy"
+      ],
+      "icon": "check"
+    }
+  ],
+  "grammar": [
+    "Passive voice: 'Das Gesetz wird beschlossen.' (The law is passed.)",
+    "'Stattfinden' (separable): 'Die Wahl findet statt.'",
+    "Genitive: 'das Recht des Bürgers' (the citizen's right).",
+    "'Obwohl' + verb at end: 'Obwohl er dagegen war, hat er zugestimmt.'",
+    "Political system: der Bundestag, der Bundeskanzler, das Grundgesetz."
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Politics & Government"
+  }
+}

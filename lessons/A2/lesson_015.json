@@ -1,0 +1,83 @@
+{
+  "level": "A2",
+  "lesson": 15,
+  "title": "A2 • Lesson 015",
+  "words": [
+    {
+      "id": "das_fest",
+      "de": "das Fest",
+      "en": "festival / celebration",
+      "type": "noun • das",
+      "example": "Das Fest war sehr schön.",
+      "quizQ": "What does 'das Fest' mean?",
+      "quizA": [
+        "festival",
+        "celebration",
+        "party"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "feiern",
+      "de": "feiern",
+      "en": "to celebrate",
+      "type": "verb",
+      "example": "Wir feiern Weihnachten zusammen.",
+      "quizQ": "Translate: feiern",
+      "quizA": [
+        "to celebrate",
+        "celebrate"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "die_tradition",
+      "de": "die Tradition",
+      "en": "tradition",
+      "type": "noun • die",
+      "example": "Das ist eine alte Tradition.",
+      "quizQ": "What does 'die Tradition' mean?",
+      "quizA": [
+        "tradition"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "das_geschenk",
+      "de": "das Geschenk",
+      "en": "gift / present",
+      "type": "noun • das",
+      "example": "Ich habe ein Geschenk für dich.",
+      "quizQ": "Translate: das Geschenk",
+      "quizA": [
+        "gift",
+        "present"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "einladen",
+      "de": "einladen",
+      "en": "to invite",
+      "type": "verb",
+      "example": "Ich lade dich zur Party ein.",
+      "quizQ": "What does 'einladen' mean?",
+      "quizA": [
+        "to invite",
+        "invite"
+      ],
+      "icon": "check"
+    }
+  ],
+  "grammar": [
+    "Separable: einladen → 'Ich lade dich ein.'",
+    "Perfekt: einladen → eingeladen: 'Ich habe ihn eingeladen.'",
+    "German festivals: Weihnachten, Ostern, Karneval, Oktoberfest.",
+    "'Für + Akkusativ': 'Das Geschenk ist für meinen Vater.'",
+    "Temporal prepositions: an Weihnachten, zu Ostern, im Sommer."
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Culture & Festivals"
+  }
+}

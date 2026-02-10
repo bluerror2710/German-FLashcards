@@ -1,0 +1,81 @@
+{
+  "level": "A2",
+  "lesson": 11,
+  "title": "A2 • Lesson 011",
+  "words": [
+    {
+      "id": "gluecklich",
+      "de": "glücklich",
+      "en": "happy",
+      "type": "adjective",
+      "example": "Ich bin heute sehr glücklich.",
+      "quizQ": "What does 'glücklich' mean?",
+      "quizA": [
+        "happy"
+      ],
+      "icon": "health"
+    },
+    {
+      "id": "traurig",
+      "de": "traurig",
+      "en": "sad",
+      "type": "adjective",
+      "example": "Sie ist traurig, weil er weg ist.",
+      "quizQ": "Translate: traurig",
+      "quizA": [
+        "sad"
+      ],
+      "icon": "health"
+    },
+    {
+      "id": "die_angst",
+      "de": "die Angst",
+      "en": "fear / anxiety",
+      "type": "noun • die",
+      "example": "Ich habe Angst vor Spinnen.",
+      "quizQ": "What does 'die Angst' mean?",
+      "quizA": [
+        "fear",
+        "anxiety"
+      ],
+      "icon": "health"
+    },
+    {
+      "id": "sich_freuen",
+      "de": "sich freuen",
+      "en": "to be happy / glad",
+      "type": "verb",
+      "example": "Ich freue mich auf die Party.",
+      "quizQ": "Translate: sich freuen",
+      "quizA": [
+        "to be happy",
+        "to be glad",
+        "be happy"
+      ],
+      "icon": "health"
+    },
+    {
+      "id": "wuetend",
+      "de": "wütend",
+      "en": "angry",
+      "type": "adjective",
+      "example": "Er ist wütend auf seinen Bruder.",
+      "quizQ": "What does 'wütend' mean?",
+      "quizA": [
+        "angry"
+      ],
+      "icon": "health"
+    }
+  ],
+  "grammar": [
+    "Reflexive verbs: sich freuen, sich ärgern, sich fühlen.",
+    "'Angst haben vor + Dativ': 'Ich habe Angst vor Hunden.'",
+    "'Wütend auf + Akkusativ': 'Er ist wütend auf mich.'",
+    "'Weil' sends verb to end: 'Ich bin traurig, weil er nicht kommt.'",
+    "Adjectives with 'sein': no ending needed: 'Ich bin glücklich.'"
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Feelings & Emotions"
+  }
+}

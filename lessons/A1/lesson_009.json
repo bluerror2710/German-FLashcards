@@ -1,0 +1,80 @@
+{
+  "level": "A1",
+  "lesson": 9,
+  "title": "A1 • Lesson 009",
+  "words": [
+    {
+      "id": "die_mutter",
+      "de": "die Mutter",
+      "en": "mother",
+      "type": "noun • die",
+      "example": "Meine Mutter kocht gut.",
+      "quizQ": "What does 'die Mutter' mean?",
+      "quizA": [
+        "mother",
+        "mom"
+      ],
+      "icon": "chat"
+    },
+    {
+      "id": "der_bruder",
+      "de": "der Bruder",
+      "en": "brother",
+      "type": "noun • der",
+      "example": "Mein Bruder ist zehn Jahre alt.",
+      "quizQ": "Translate: der Bruder",
+      "quizA": [
+        "brother"
+      ],
+      "icon": "chat"
+    },
+    {
+      "id": "die_schwester",
+      "de": "die Schwester",
+      "en": "sister",
+      "type": "noun • die",
+      "example": "Meine Schwester wohnt in Berlin.",
+      "quizQ": "What does 'die Schwester' mean?",
+      "quizA": [
+        "sister"
+      ],
+      "icon": "chat"
+    },
+    {
+      "id": "das_kind",
+      "de": "das Kind",
+      "en": "child",
+      "type": "noun • das",
+      "example": "Das Kind spielt im Garten.",
+      "quizQ": "Translate: das Kind",
+      "quizA": [
+        "child",
+        "kid"
+      ],
+      "icon": "chat"
+    },
+    {
+      "id": "verheiratet",
+      "de": "verheiratet",
+      "en": "married",
+      "type": "adjective",
+      "example": "Sind Sie verheiratet?",
+      "quizQ": "What does 'verheiratet' mean?",
+      "quizA": [
+        "married"
+      ],
+      "icon": "chat"
+    }
+  ],
+  "grammar": [
+    "Possessive pronouns: mein/meine (my), dein/deine (your).",
+    "Family plurals: die Mutter → die Mütter (umlaut in plural).",
+    "'haben' with family: 'Ich habe zwei Brüder.'",
+    "Asking about family: 'Haben Sie Geschwister?' = Do you have siblings?",
+    "Ages: 'Ich bin 25 Jahre alt.' = I am 25 years old."
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Family & People"
+  }
+}

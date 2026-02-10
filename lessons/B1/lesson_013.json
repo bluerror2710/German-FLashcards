@@ -1,0 +1,82 @@
+{
+  "level": "B1",
+  "lesson": 13,
+  "title": "B1 • Lesson 013",
+  "words": [
+    {
+      "id": "die_forschung",
+      "de": "die Forschung",
+      "en": "research",
+      "type": "noun • die",
+      "example": "Die Forschung macht große Fortschritte.",
+      "quizQ": "What does 'die Forschung' mean?",
+      "quizA": [
+        "research"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "das_ergebnis",
+      "de": "das Ergebnis",
+      "en": "result",
+      "type": "noun • das",
+      "example": "Das Ergebnis überrascht die Wissenschaftler.",
+      "quizQ": "Translate: das Ergebnis",
+      "quizA": [
+        "result"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "untersuchen",
+      "de": "untersuchen",
+      "en": "to examine / investigate",
+      "type": "verb",
+      "example": "Wissenschaftler untersuchen das Problem.",
+      "quizQ": "What does 'untersuchen' mean?",
+      "quizA": [
+        "to examine",
+        "examine",
+        "to investigate",
+        "investigate"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "die_entwicklung",
+      "de": "die Entwicklung",
+      "en": "development",
+      "type": "noun • die",
+      "example": "Die Entwicklung geht schnell voran.",
+      "quizQ": "Translate: die Entwicklung",
+      "quizA": [
+        "development"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "beweisen",
+      "de": "beweisen",
+      "en": "to prove",
+      "type": "verb",
+      "example": "Die Studie beweist die Theorie.",
+      "quizQ": "What does 'beweisen' mean?",
+      "quizA": [
+        "to prove",
+        "prove"
+      ],
+      "icon": "check"
+    }
+  ],
+  "grammar": [
+    "Inseparable prefix: untersuchen → untersucht (no ge- in Perfekt).",
+    "Passive with 'werden': 'Das Problem wird untersucht.'",
+    "Nominalization with -ung: forschen → die Forschung, entwickeln → die Entwicklung.",
+    "'Laut + Dativ': 'Laut der Studie ist das richtig.' (According to the study…)",
+    "Extended attributes: 'die von Wissenschaftlern untersuchten Ergebnisse'."
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Science & Research"
+  }
+}

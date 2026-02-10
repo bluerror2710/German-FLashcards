@@ -1,0 +1,81 @@
+{
+  "level": "A2",
+  "lesson": 10,
+  "title": "A2 • Lesson 010",
+  "words": [
+    {
+      "id": "das_rezept",
+      "de": "das Rezept",
+      "en": "recipe",
+      "type": "noun • das",
+      "example": "Das Rezept ist einfach.",
+      "quizQ": "What does 'das Rezept' mean?",
+      "quizA": [
+        "recipe"
+      ],
+      "icon": "food"
+    },
+    {
+      "id": "schneiden",
+      "de": "schneiden",
+      "en": "to cut",
+      "type": "verb",
+      "example": "Schneiden Sie die Zwiebeln.",
+      "quizQ": "Translate: schneiden",
+      "quizA": [
+        "to cut",
+        "cut"
+      ],
+      "icon": "food"
+    },
+    {
+      "id": "die_zutat",
+      "de": "die Zutat",
+      "en": "ingredient",
+      "type": "noun • die",
+      "example": "Wir brauchen noch eine Zutat.",
+      "quizQ": "What does 'die Zutat' mean?",
+      "quizA": [
+        "ingredient"
+      ],
+      "icon": "food"
+    },
+    {
+      "id": "kochen",
+      "de": "kochen",
+      "en": "to cook",
+      "type": "verb",
+      "example": "Ich koche jeden Abend.",
+      "quizQ": "Translate: kochen",
+      "quizA": [
+        "to cook",
+        "cook"
+      ],
+      "icon": "food"
+    },
+    {
+      "id": "die_pfanne",
+      "de": "die Pfanne",
+      "en": "pan / frying pan",
+      "type": "noun • die",
+      "example": "Brate das Fleisch in der Pfanne.",
+      "quizQ": "What does 'die Pfanne' mean?",
+      "quizA": [
+        "pan",
+        "frying pan"
+      ],
+      "icon": "food"
+    }
+  ],
+  "grammar": [
+    "Imperative (Sie-form): 'Schneiden Sie!' (Cut!)",
+    "Imperative (du-form): 'Schneide die Zwiebeln!'",
+    "Quantities: ein Kilo, ein Liter, eine Tasse, ein Löffel.",
+    "'Man' as impersonal: 'Man braucht Mehl und Eier.'",
+    "Temporal order: zuerst (first), dann (then), danach (after that), zum Schluss (finally)."
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Cooking & Recipes"
+  }
+}

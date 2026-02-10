@@ -1,0 +1,81 @@
+{
+  "level": "A1",
+  "lesson": 14,
+  "title": "A1 • Lesson 014",
+  "words": [
+    {
+      "id": "die_jacke",
+      "de": "die Jacke",
+      "en": "jacket",
+      "type": "noun • die",
+      "example": "Zieh deine Jacke an!",
+      "quizQ": "What does 'die Jacke' mean?",
+      "quizA": [
+        "jacket"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "die_sonne",
+      "de": "die Sonne",
+      "en": "sun",
+      "type": "noun • die",
+      "example": "Die Sonne scheint heute.",
+      "quizQ": "Translate: die Sonne",
+      "quizA": [
+        "sun"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "kalt",
+      "de": "kalt",
+      "en": "cold",
+      "type": "adjective",
+      "example": "Es ist kalt draußen.",
+      "quizQ": "What does 'kalt' mean?",
+      "quizA": [
+        "cold"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "der_regen",
+      "de": "der Regen",
+      "en": "rain",
+      "type": "noun • der",
+      "example": "Der Regen hört nicht auf.",
+      "quizQ": "Translate: der Regen",
+      "quizA": [
+        "rain"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "tragen",
+      "de": "tragen",
+      "en": "to wear / to carry",
+      "type": "verb",
+      "example": "Ich trage einen Pullover.",
+      "quizQ": "What does 'tragen' mean?",
+      "quizA": [
+        "to wear",
+        "wear",
+        "to carry",
+        "carry"
+      ],
+      "icon": "check"
+    }
+  ],
+  "grammar": [
+    "Weather with 'es': 'Es regnet.' (It's raining.), 'Es schneit.' (It's snowing.)",
+    "Stem-changing: tragen → ich trage, du trägst.",
+    "Separable verb: anziehen → 'Ich ziehe die Jacke an.'",
+    "Adjective endings (basic): 'ein warmer Tag', 'eine kalte Nacht'.",
+    "Seasons: der Frühling, der Sommer, der Herbst, der Winter."
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Clothes & Weather"
+  }
+}

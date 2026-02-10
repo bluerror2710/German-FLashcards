@@ -1,0 +1,83 @@
+{
+  "level": "A2",
+  "lesson": 14,
+  "title": "A2 • Lesson 014",
+  "words": [
+    {
+      "id": "die_umwelt",
+      "de": "die Umwelt",
+      "en": "environment",
+      "type": "noun • die",
+      "example": "Wir müssen die Umwelt schützen.",
+      "quizQ": "What does 'die Umwelt' mean?",
+      "quizA": [
+        "environment"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "der_muell",
+      "de": "der Müll",
+      "en": "trash / garbage",
+      "type": "noun • der",
+      "example": "Bitte bring den Müll raus.",
+      "quizQ": "Translate: der Müll",
+      "quizA": [
+        "trash",
+        "garbage",
+        "rubbish",
+        "waste"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "recyceln",
+      "de": "recyceln",
+      "en": "to recycle",
+      "type": "verb",
+      "example": "Wir recyceln Papier und Glas.",
+      "quizQ": "What does 'recyceln' mean?",
+      "quizA": [
+        "to recycle",
+        "recycle"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "die_energie",
+      "de": "die Energie",
+      "en": "energy",
+      "type": "noun • die",
+      "example": "Wir brauchen erneuerbare Energie.",
+      "quizQ": "Translate: die Energie",
+      "quizA": [
+        "energy"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "sparen",
+      "de": "sparen",
+      "en": "to save (resources/money)",
+      "type": "verb",
+      "example": "Wir müssen Wasser sparen.",
+      "quizQ": "What does 'sparen' mean?",
+      "quizA": [
+        "to save",
+        "save"
+      ],
+      "icon": "check"
+    }
+  ],
+  "grammar": [
+    "'Müssen' for necessity: 'Wir müssen recyceln.'",
+    "Compound nouns: die Umwelt + der Schutz = der Umweltschutz.",
+    "'Sollen' for suggestion: 'Man sollte Energie sparen.'",
+    "Mülltrennung (waste separation) is important in Germany.",
+    "Passive voice intro: 'Papier wird recycelt.' (Paper is recycled.)"
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Environment & Recycling"
+  }
+}

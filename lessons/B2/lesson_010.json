@@ -1,0 +1,88 @@
+{
+  "level": "B2",
+  "lesson": 10,
+  "title": "B2 • Lesson 010",
+  "words": [
+    {
+      "id": "das_gesetz",
+      "de": "das Gesetz",
+      "en": "law / statute",
+      "type": "noun • das",
+      "example": "Das Gesetz tritt nächsten Monat in Kraft.",
+      "quizQ": "What does 'das Gesetz' mean?",
+      "quizA": [
+        "law",
+        "statute"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "das_urteil",
+      "de": "das Urteil",
+      "en": "verdict / judgment",
+      "type": "noun • das",
+      "example": "Das Gericht hat das Urteil gesprochen.",
+      "quizQ": "Translate: das Urteil",
+      "quizA": [
+        "verdict",
+        "judgment",
+        "judgement"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "anklagen",
+      "de": "anklagen",
+      "en": "to accuse / to prosecute",
+      "type": "verb",
+      "example": "Der Staatsanwalt klagt den Verdächtigen an.",
+      "quizQ": "What does 'anklagen' mean?",
+      "quizA": [
+        "to accuse",
+        "accuse",
+        "to prosecute",
+        "prosecute"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "der_anwalt",
+      "de": "der Anwalt",
+      "en": "lawyer / attorney",
+      "type": "noun • der",
+      "example": "Mein Anwalt vertritt mich vor Gericht.",
+      "quizQ": "Translate: der Anwalt",
+      "quizA": [
+        "lawyer",
+        "attorney"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "verstoessen",
+      "de": "verstoßen",
+      "en": "to violate / to breach",
+      "type": "verb",
+      "example": "Er hat gegen das Gesetz verstoßen.",
+      "quizQ": "What does 'verstoßen' mean?",
+      "quizA": [
+        "to violate",
+        "violate",
+        "to breach",
+        "breach"
+      ],
+      "icon": "check"
+    }
+  ],
+  "grammar": [
+    "'In Kraft treten': 'Das Gesetz tritt in Kraft.' (The law takes effect.)",
+    "'Verstoßen gegen + Akk.': 'gegen das Gesetz verstoßen.'",
+    "Genitive in legal language: 'das Urteil des Gerichts'.",
+    "Passive: 'Der Verdächtige wird angeklagt.' (The suspect is prosecuted.)",
+    "Konjunktiv I in indirect speech: 'Der Anwalt sagte, sein Mandant sei unschuldig.'"
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Law & Justice"
+  }
+}

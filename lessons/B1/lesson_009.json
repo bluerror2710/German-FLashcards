@@ -1,0 +1,81 @@
+{
+  "level": "B1",
+  "lesson": 9,
+  "title": "B1 • Lesson 009",
+  "words": [
+    {
+      "id": "die_beziehung",
+      "de": "die Beziehung",
+      "en": "relationship",
+      "type": "noun • die",
+      "example": "Eine gute Beziehung braucht Vertrauen.",
+      "quizQ": "What does 'die Beziehung' mean?",
+      "quizA": [
+        "relationship"
+      ],
+      "icon": "chat"
+    },
+    {
+      "id": "die_gesellschaft",
+      "de": "die Gesellschaft",
+      "en": "society",
+      "type": "noun • die",
+      "example": "Die Gesellschaft verändert sich schnell.",
+      "quizQ": "Translate: die Gesellschaft",
+      "quizA": [
+        "society"
+      ],
+      "icon": "chat"
+    },
+    {
+      "id": "unterstuetzen",
+      "de": "unterstützen",
+      "en": "to support",
+      "type": "verb",
+      "example": "Freunde unterstützen einander.",
+      "quizQ": "What does 'unterstützen' mean?",
+      "quizA": [
+        "to support",
+        "support"
+      ],
+      "icon": "chat"
+    },
+    {
+      "id": "das_vertrauen",
+      "de": "das Vertrauen",
+      "en": "trust",
+      "type": "noun • das",
+      "example": "Vertrauen ist die Basis jeder Beziehung.",
+      "quizQ": "Translate: das Vertrauen",
+      "quizA": [
+        "trust"
+      ],
+      "icon": "chat"
+    },
+    {
+      "id": "sich_engagieren",
+      "de": "sich engagieren",
+      "en": "to get involved",
+      "type": "verb",
+      "example": "Sie engagiert sich für Menschenrechte.",
+      "quizQ": "What does 'sich engagieren' mean?",
+      "quizA": [
+        "to get involved",
+        "get involved",
+        "to engage"
+      ],
+      "icon": "chat"
+    }
+  ],
+  "grammar": [
+    "Reflexive + preposition: 'sich engagieren für + Akk.'",
+    "'Einander' (each other): 'Sie helfen einander.'",
+    "Nominalized verbs: das Vertrauen (from vertrauen), das Leben (from leben).",
+    "'Je…desto': 'Je mehr Vertrauen, desto besser die Beziehung.'",
+    "Relative clauses: 'Menschen, die sich engagieren, verändern die Welt.'"
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Relationships & Society"
+  }
+}

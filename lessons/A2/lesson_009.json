@@ -1,0 +1,80 @@
+{
+  "level": "A2",
+  "lesson": 9,
+  "title": "A2 • Lesson 009",
+  "words": [
+    {
+      "id": "der_chef",
+      "de": "der Chef",
+      "en": "boss",
+      "type": "noun • der",
+      "example": "Mein Chef ist sehr nett.",
+      "quizQ": "What does 'der Chef' mean?",
+      "quizA": [
+        "boss"
+      ],
+      "icon": "work"
+    },
+    {
+      "id": "die_besprechung",
+      "de": "die Besprechung",
+      "en": "meeting",
+      "type": "noun • die",
+      "example": "Die Besprechung beginnt um zehn.",
+      "quizQ": "Translate: die Besprechung",
+      "quizA": [
+        "meeting"
+      ],
+      "icon": "work"
+    },
+    {
+      "id": "der_kollege",
+      "de": "der Kollege",
+      "en": "colleague",
+      "type": "noun • der",
+      "example": "Mein Kollege hilft mir oft.",
+      "quizQ": "What does 'der Kollege' mean?",
+      "quizA": [
+        "colleague",
+        "coworker"
+      ],
+      "icon": "work"
+    },
+    {
+      "id": "verdienen",
+      "de": "verdienen",
+      "en": "to earn",
+      "type": "verb",
+      "example": "Sie verdient gut in ihrem Job.",
+      "quizQ": "Translate: verdienen",
+      "quizA": [
+        "to earn",
+        "earn"
+      ],
+      "icon": "work"
+    },
+    {
+      "id": "der_termin",
+      "de": "der Termin",
+      "en": "appointment",
+      "type": "noun • der",
+      "example": "Ich habe morgen einen Termin.",
+      "quizQ": "What does 'der Termin' mean?",
+      "quizA": [
+        "appointment"
+      ],
+      "icon": "work"
+    }
+  ],
+  "grammar": [
+    "'Müssen' for obligation: 'Ich muss arbeiten.' (I must work.)",
+    "Time expressions: morgens (in the morning), nachmittags (in the afternoon).",
+    "Weak noun: der Kollege → den/dem Kollegen (accusative/dative).",
+    "'Weil' clause (reason): 'Ich bin müde, weil ich viel arbeite.'",
+    "Reflexive: 'Ich freue mich auf das Wochenende.'"
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Work & Office"
+  }
+}

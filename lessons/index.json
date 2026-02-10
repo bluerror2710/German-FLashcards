@@ -8,7 +8,15 @@
         "A1/lesson_004.json",
         "A1/lesson_005.json",
         "A1/lesson_006.json",
-        "A1/lesson_007.json"
+        "A1/lesson_007.json",
+        "A1/lesson_008.json",
+        "A1/lesson_009.json",
+        "A1/lesson_010.json",
+        "A1/lesson_011.json",
+        "A1/lesson_012.json",
+        "A1/lesson_013.json",
+        "A1/lesson_014.json",
+        "A1/lesson_015.json"
       ]
     },
     "A2": {
@@ -19,7 +27,15 @@
         "A2/lesson_004.json",
         "A2/lesson_005.json",
         "A2/lesson_006.json",
-        "A2/lesson_007.json"
+        "A2/lesson_007.json",
+        "A2/lesson_008.json",
+        "A2/lesson_009.json",
+        "A2/lesson_010.json",
+        "A2/lesson_011.json",
+        "A2/lesson_012.json",
+        "A2/lesson_013.json",
+        "A2/lesson_014.json",
+        "A2/lesson_015.json"
       ]
     },
     "B1": {
@@ -30,7 +46,15 @@
         "B1/lesson_004.json",
         "B1/lesson_005.json",
         "B1/lesson_006.json",
-        "B1/lesson_007.json"
+        "B1/lesson_007.json",
+        "B1/lesson_008.json",
+        "B1/lesson_009.json",
+        "B1/lesson_010.json",
+        "B1/lesson_011.json",
+        "B1/lesson_012.json",
+        "B1/lesson_013.json",
+        "B1/lesson_014.json",
+        "B1/lesson_015.json"
       ]
     },
     "B2": {
@@ -41,14 +65,22 @@
         "B2/lesson_004.json",
         "B2/lesson_005.json",
         "B2/lesson_006.json",
-        "B2/lesson_007.json"
+        "B2/lesson_007.json",
+        "B2/lesson_008.json",
+        "B2/lesson_009.json",
+        "B2/lesson_010.json",
+        "B2/lesson_011.json",
+        "B2/lesson_012.json",
+        "B2/lesson_013.json",
+        "B2/lesson_014.json",
+        "B2/lesson_015.json"
       ]
     }
   },
   "latest": {
-    "A1": "A1/lesson_007.json",
-    "A2": "A2/lesson_007.json",
-    "B1": "B1/lesson_007.json",
-    "B2": "B2/lesson_007.json"
+    "A1": "A1/lesson_015.json",
+    "A2": "A2/lesson_015.json",
+    "B1": "B1/lesson_015.json",
+    "B2": "B2/lesson_015.json"
   }
 }

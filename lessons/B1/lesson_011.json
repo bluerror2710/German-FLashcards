@@ -1,0 +1,82 @@
+{
+  "level": "B1",
+  "lesson": 11,
+  "title": "B1 • Lesson 011",
+  "words": [
+    {
+      "id": "die_ernaehrung",
+      "de": "die Ernährung",
+      "en": "nutrition / diet",
+      "type": "noun • die",
+      "example": "Eine gesunde Ernährung ist wichtig.",
+      "quizQ": "What does 'die Ernährung' mean?",
+      "quizA": [
+        "nutrition",
+        "diet"
+      ],
+      "icon": "health"
+    },
+    {
+      "id": "der_stress",
+      "de": "der Stress",
+      "en": "stress",
+      "type": "noun • der",
+      "example": "Zu viel Stress macht krank.",
+      "quizQ": "Translate: der Stress",
+      "quizA": [
+        "stress"
+      ],
+      "icon": "health"
+    },
+    {
+      "id": "sich_entspannen",
+      "de": "sich entspannen",
+      "en": "to relax",
+      "type": "verb",
+      "example": "Am Wochenende entspanne ich mich.",
+      "quizQ": "What does 'sich entspannen' mean?",
+      "quizA": [
+        "to relax",
+        "relax"
+      ],
+      "icon": "health"
+    },
+    {
+      "id": "die_bewegung",
+      "de": "die Bewegung",
+      "en": "exercise / movement",
+      "type": "noun • die",
+      "example": "Bewegung ist gut für die Gesundheit.",
+      "quizQ": "Translate: die Bewegung",
+      "quizA": [
+        "exercise",
+        "movement"
+      ],
+      "icon": "health"
+    },
+    {
+      "id": "vorbeugen",
+      "de": "vorbeugen",
+      "en": "to prevent",
+      "type": "verb",
+      "example": "Sport kann Krankheiten vorbeugen.",
+      "quizQ": "What does 'vorbeugen' mean?",
+      "quizA": [
+        "to prevent",
+        "prevent"
+      ],
+      "icon": "health"
+    }
+  ],
+  "grammar": [
+    "Separable: vorbeugen → 'Sport beugt Krankheiten vor.'",
+    "'Dativ + vorbeugen': 'Man kann dem Stress vorbeugen.'",
+    "Infinitive clauses: 'Es ist wichtig, sich zu entspannen.'",
+    "Adjective declension: 'eine gesunde Ernährung', 'gesundes Essen'.",
+    "'Je…desto': 'Je mehr Bewegung, desto besser fühlt man sich.'"
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Health & Wellness"
+  }
+}

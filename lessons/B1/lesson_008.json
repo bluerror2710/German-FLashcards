@@ -1,0 +1,80 @@
+{
+  "level": "B1",
+  "lesson": 8,
+  "title": "B1 • Lesson 008",
+  "words": [
+    {
+      "id": "die_nachricht",
+      "de": "die Nachricht",
+      "en": "news / message",
+      "type": "noun • die",
+      "example": "Hast du die Nachricht gelesen?",
+      "quizQ": "What does 'die Nachricht' mean?",
+      "quizA": [
+        "news",
+        "message"
+      ],
+      "icon": "chat"
+    },
+    {
+      "id": "berichten",
+      "de": "berichten",
+      "en": "to report",
+      "type": "verb",
+      "example": "Die Zeitung berichtet über den Unfall.",
+      "quizQ": "Translate: berichten",
+      "quizA": [
+        "to report",
+        "report"
+      ],
+      "icon": "chat"
+    },
+    {
+      "id": "die_meinung",
+      "de": "die Meinung",
+      "en": "opinion",
+      "type": "noun • die",
+      "example": "Meiner Meinung nach ist das falsch.",
+      "quizQ": "What does 'die Meinung' mean?",
+      "quizA": [
+        "opinion"
+      ],
+      "icon": "chat"
+    },
+    {
+      "id": "oeffentlich",
+      "de": "öffentlich",
+      "en": "public",
+      "type": "adjective",
+      "example": "Das ist eine öffentliche Debatte.",
+      "quizQ": "Translate: öffentlich",
+      "quizA": [
+        "public"
+      ],
+      "icon": "chat"
+    },
+    {
+      "id": "die_quelle",
+      "de": "die Quelle",
+      "en": "source",
+      "type": "noun • die",
+      "example": "Man muss die Quelle überprüfen.",
+      "quizQ": "What does 'die Quelle' mean?",
+      "quizA": [
+        "source"
+      ],
+      "icon": "chat"
+    }
+  ],
+  "grammar": [
+    "Indirect speech: 'Er sagt, dass die Nachrichten wichtig seien.'",
+    "'Meiner Meinung nach' + inversion: 'Meiner Meinung nach ist das richtig.'",
+    "Passive: 'Es wird berichtet, dass…' (It is reported that…)",
+    "Konjunktiv I for reported speech: er sei, er habe, er könne.",
+    "Media vocabulary: die Zeitung (newspaper), der Sender (channel), die Sendung (broadcast)."
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Media & News"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "level": "B2",
+  "lesson": 8,
+  "title": "B2 • Lesson 008",
+  "words": [
+    {
+      "id": "die_moral",
+      "de": "die Moral",
+      "en": "morality / morals",
+      "type": "noun • die",
+      "example": "Die Moral einer Gesellschaft spiegelt ihre Werte wider.",
+      "quizQ": "What does 'die Moral' mean?",
+      "quizA": [
+        "morality",
+        "morals"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "hinterfragen",
+      "de": "hinterfragen",
+      "en": "to question / challenge",
+      "type": "verb",
+      "example": "Man sollte Autoritäten hinterfragen.",
+      "quizQ": "Translate: hinterfragen",
+      "quizA": [
+        "to question",
+        "question",
+        "to challenge",
+        "challenge"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "die_gerechtigkeit",
+      "de": "die Gerechtigkeit",
+      "en": "justice / fairness",
+      "type": "noun • die",
+      "example": "Gerechtigkeit ist ein Grundpfeiler der Demokratie.",
+      "quizQ": "What does 'die Gerechtigkeit' mean?",
+      "quizA": [
+        "justice",
+        "fairness"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "das_gewissen",
+      "de": "das Gewissen",
+      "en": "conscience",
+      "type": "noun • das",
+      "example": "Sein Gewissen ließ ihm keine Ruhe.",
+      "quizQ": "Translate: das Gewissen",
+      "quizA": [
+        "conscience"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "abwaegen",
+      "de": "abwägen",
+      "en": "to weigh (pros and cons)",
+      "type": "verb",
+      "example": "Man muss die Vor- und Nachteile abwägen.",
+      "quizQ": "What does 'abwägen' mean?",
+      "quizA": [
+        "to weigh",
+        "weigh",
+        "to consider"
+      ],
+      "icon": "check"
+    }
+  ],
+  "grammar": [
+    "Konjunktiv II for hypotheticals: 'Wenn jeder gerecht handeln würde…'",
+    "'Widerspiegeln' (separable): 'Die Moral spiegelt die Werte wider.'",
+    "Nominalization: gerecht → die Gerechtigkeit, frei → die Freiheit.",
+    "'Es stellt sich die Frage, ob…' (The question arises whether…)",
+    "Double infinitive: 'Man hätte das hinterfragen sollen.'"
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Philosophy & Ethics"
+  }
+}

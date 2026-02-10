@@ -1,0 +1,82 @@
+{
+  "level": "A1",
+  "lesson": 12,
+  "title": "A1 • Lesson 012",
+  "words": [
+    {
+      "id": "lesen",
+      "de": "lesen",
+      "en": "to read",
+      "type": "verb",
+      "example": "Ich lese gern Bücher.",
+      "quizQ": "Translate: lesen",
+      "quizA": [
+        "to read",
+        "read"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "schwimmen",
+      "de": "schwimmen",
+      "en": "to swim",
+      "type": "verb",
+      "example": "Im Sommer gehe ich schwimmen.",
+      "quizQ": "What does 'schwimmen' mean?",
+      "quizA": [
+        "to swim",
+        "swim"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "das_hobby",
+      "de": "das Hobby",
+      "en": "hobby",
+      "type": "noun • das",
+      "example": "Mein Hobby ist Fußball.",
+      "quizQ": "Translate: das Hobby",
+      "quizA": [
+        "hobby"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "der_film",
+      "de": "der Film",
+      "en": "film / movie",
+      "type": "noun • der",
+      "example": "Wir sehen einen Film.",
+      "quizQ": "What does 'der Film' mean?",
+      "quizA": [
+        "film",
+        "movie"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "spielen",
+      "de": "spielen",
+      "en": "to play",
+      "type": "verb",
+      "example": "Die Kinder spielen draußen.",
+      "quizQ": "Translate: spielen",
+      "quizA": [
+        "to play",
+        "play"
+      ],
+      "icon": "check"
+    }
+  ],
+  "grammar": [
+    "'Gern' after verb = enjoy doing: 'Ich lese gern.' (I like reading.)",
+    "Stem-changing: lesen → ich lese, du liest.",
+    "'Gehen + infinitive': 'Ich gehe schwimmen.' (I go swimming.)",
+    "Accusative with 'sehen': 'Ich sehe einen Film.'",
+    "Frequency: oft (often), manchmal (sometimes), nie (never)."
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Hobbies & Free Time"
+  }
+}

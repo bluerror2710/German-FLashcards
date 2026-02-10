@@ -1,0 +1,78 @@
+{
+  "level": "A1",
+  "lesson": 15,
+  "title": "A1 • Lesson 015",
+  "words": [
+    {
+      "id": "der_hund",
+      "de": "der Hund",
+      "en": "dog",
+      "type": "noun • der",
+      "example": "Der Hund spielt im Park.",
+      "quizQ": "What does 'der Hund' mean?",
+      "quizA": [
+        "dog"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "die_katze",
+      "de": "die Katze",
+      "en": "cat",
+      "type": "noun • die",
+      "example": "Die Katze schläft auf dem Sofa.",
+      "quizQ": "Translate: die Katze",
+      "quizA": [
+        "cat"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "der_baum",
+      "de": "der Baum",
+      "en": "tree",
+      "type": "noun • der",
+      "example": "Der Baum ist sehr groß.",
+      "quizQ": "What does 'der Baum' mean?",
+      "quizA": [
+        "tree"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "die_blume",
+      "de": "die Blume",
+      "en": "flower",
+      "type": "noun • die",
+      "example": "Die Blume ist rot.",
+      "quizQ": "Translate: die Blume",
+      "quizA": [
+        "flower"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "der_vogel",
+      "de": "der Vogel",
+      "en": "bird",
+      "type": "noun • der",
+      "example": "Der Vogel singt am Morgen.",
+      "quizQ": "What does 'der Vogel' mean?",
+      "quizA": [
+        "bird"
+      ],
+      "icon": "check"
+    }
+  ],
+  "grammar": [
+    "Animal plurals often add umlaut: der Hund → die Hunde, der Vogel → die Vögel.",
+    "'Mögen' for liking: 'Ich mag Katzen.' (I like cats.)",
+    "Nature vocabulary: der Berg (mountain), der See (lake), das Meer (sea).",
+    "Compound nouns: das Haus + das Tier = das Haustier (pet).",
+    "Adjective comparison: groß → größer → am größten."
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Animals & Nature"
+  }
+}

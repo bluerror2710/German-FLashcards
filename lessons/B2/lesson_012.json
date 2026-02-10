@@ -1,0 +1,83 @@
+{
+  "level": "B2",
+  "lesson": 12,
+  "title": "B2 • Lesson 012",
+  "words": [
+    {
+      "id": "der_klimawandel",
+      "de": "der Klimawandel",
+      "en": "climate change",
+      "type": "noun • der",
+      "example": "Der Klimawandel betrifft alle Menschen.",
+      "quizQ": "What does 'der Klimawandel' mean?",
+      "quizA": [
+        "climate change"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "der_co2_ausstoss",
+      "de": "der CO₂-Ausstoß",
+      "en": "CO₂ emissions",
+      "type": "noun • der",
+      "example": "Wir müssen den CO₂-Ausstoß reduzieren.",
+      "quizQ": "Translate: der CO₂-Ausstoß",
+      "quizA": [
+        "CO2 emissions",
+        "carbon emissions",
+        "emissions"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "erneuerbar",
+      "de": "erneuerbar",
+      "en": "renewable",
+      "type": "adjective",
+      "example": "Erneuerbare Energien sind die Zukunft.",
+      "quizQ": "What does 'erneuerbar' mean?",
+      "quizA": [
+        "renewable"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "die_ressource",
+      "de": "die Ressource",
+      "en": "resource",
+      "type": "noun • die",
+      "example": "Natürliche Ressourcen sind begrenzt.",
+      "quizQ": "Translate: die Ressource",
+      "quizA": [
+        "resource"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "verbrauchen",
+      "de": "verbrauchen",
+      "en": "to consume / use up",
+      "type": "verb",
+      "example": "Wir verbrauchen zu viele Ressourcen.",
+      "quizQ": "What does 'verbrauchen' mean?",
+      "quizA": [
+        "to consume",
+        "consume",
+        "to use up",
+        "use up"
+      ],
+      "icon": "check"
+    }
+  ],
+  "grammar": [
+    "'Betreffen' + Akk.: 'Der Klimawandel betrifft alle.'",
+    "Inseparable: verbrauchen → verbraucht (Perfekt without ge-).",
+    "Adjective from verb: erneuern → erneuerbar (renewable).",
+    "'Es gilt' + zu-infinitive: 'Es gilt, den Ausstoß zu reduzieren.'",
+    "Nominalstil: 'die Reduzierung des CO₂-Ausstoßes' (formal/written style)."
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Sustainability & Climate"
+  }
+}

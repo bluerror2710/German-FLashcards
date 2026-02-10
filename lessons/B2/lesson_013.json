@@ -1,0 +1,84 @@
+{
+  "level": "B2",
+  "lesson": 13,
+  "title": "B2 • Lesson 013",
+  "words": [
+    {
+      "id": "die_digitalisierung",
+      "de": "die Digitalisierung",
+      "en": "digitalization",
+      "type": "noun • die",
+      "example": "Die Digitalisierung verändert die Arbeitswelt.",
+      "quizQ": "What does 'die Digitalisierung' mean?",
+      "quizA": [
+        "digitalization",
+        "digitization"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "die_kuenstliche_intelligenz",
+      "de": "die künstliche Intelligenz",
+      "en": "artificial intelligence",
+      "type": "noun • die",
+      "example": "Künstliche Intelligenz wird immer wichtiger.",
+      "quizQ": "Translate: die künstliche Intelligenz",
+      "quizA": [
+        "artificial intelligence",
+        "AI"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "automatisieren",
+      "de": "automatisieren",
+      "en": "to automate",
+      "type": "verb",
+      "example": "Viele Prozesse werden automatisiert.",
+      "quizQ": "What does 'automatisieren' mean?",
+      "quizA": [
+        "to automate",
+        "automate"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "der_datenschutz",
+      "de": "der Datenschutz",
+      "en": "data protection / privacy",
+      "type": "noun • der",
+      "example": "Datenschutz ist in Europa ein wichtiges Thema.",
+      "quizQ": "Translate: der Datenschutz",
+      "quizA": [
+        "data protection",
+        "data privacy",
+        "privacy"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "vernetzt",
+      "de": "vernetzt",
+      "en": "connected / networked",
+      "type": "adjective",
+      "example": "Wir leben in einer vernetzten Welt.",
+      "quizQ": "What does 'vernetzt' mean?",
+      "quizA": [
+        "connected",
+        "networked"
+      ],
+      "icon": "check"
+    }
+  ],
+  "grammar": [
+    "Zustandspassiv: 'Die Prozesse sind automatisiert.' (state vs. process)",
+    "Vorgangspassiv: 'Die Prozesse werden automatisiert.' (being automated)",
+    "Compound nouns: Daten + Schutz = der Datenschutz.",
+    "Participial adjective: vernetzt → 'eine vernetzte Welt'.",
+    "'Immer + Komparativ': 'KI wird immer wichtiger.' (AI is becoming ever more important.)"
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Digital Transformation"
+  }
+}

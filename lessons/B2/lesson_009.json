@@ -1,0 +1,79 @@
+{
+  "level": "B2",
+  "lesson": 9,
+  "title": "B2 • Lesson 009",
+  "words": [
+    {
+      "id": "das_wachstum",
+      "de": "das Wachstum",
+      "en": "growth",
+      "type": "noun • das",
+      "example": "Das Wirtschaftswachstum verlangsamt sich.",
+      "quizQ": "What does 'das Wachstum' mean?",
+      "quizA": [
+        "growth"
+      ],
+      "icon": "money"
+    },
+    {
+      "id": "die_inflation",
+      "de": "die Inflation",
+      "en": "inflation",
+      "type": "noun • die",
+      "example": "Die Inflation steigt seit Monaten.",
+      "quizQ": "Translate: die Inflation",
+      "quizA": [
+        "inflation"
+      ],
+      "icon": "money"
+    },
+    {
+      "id": "investieren",
+      "de": "investieren",
+      "en": "to invest",
+      "type": "verb",
+      "example": "Das Unternehmen investiert in neue Technologien.",
+      "quizQ": "What does 'investieren' mean?",
+      "quizA": [
+        "to invest",
+        "invest"
+      ],
+      "icon": "money"
+    },
+    {
+      "id": "der_wettbewerb",
+      "de": "der Wettbewerb",
+      "en": "competition",
+      "type": "noun • der",
+      "example": "Der Wettbewerb auf dem Markt ist hart.",
+      "quizQ": "Translate: der Wettbewerb",
+      "quizA": [
+        "competition"
+      ],
+      "icon": "money"
+    },
+    {
+      "id": "nachhaltig",
+      "de": "nachhaltig",
+      "en": "sustainable",
+      "type": "adjective",
+      "example": "Nachhaltiges Wachstum ist das Ziel.",
+      "quizQ": "What does 'nachhaltig' mean?",
+      "quizA": [
+        "sustainable"
+      ],
+      "icon": "money"
+    }
+  ],
+  "grammar": [
+    "Extended participial phrases: 'das sich verlangsamende Wirtschaftswachstum'.",
+    "'Seit + Dativ' for duration: 'Die Inflation steigt seit Monaten.'",
+    "Nominalization from adjectives: nachhaltig → die Nachhaltigkeit.",
+    "Passive with modals: 'Es muss investiert werden.'",
+    "Konjunktiv II: 'Wenn die Inflation sinken würde, könnte man mehr investieren.'"
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Economics & Markets"
+  }
+}

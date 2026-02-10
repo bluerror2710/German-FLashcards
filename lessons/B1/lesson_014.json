@@ -1,0 +1,83 @@
+{
+  "level": "B1",
+  "lesson": 14,
+  "title": "B1 • Lesson 014",
+  "words": [
+    {
+      "id": "das_kunstwerk",
+      "de": "das Kunstwerk",
+      "en": "work of art",
+      "type": "noun • das",
+      "example": "Das Kunstwerk ist sehr beeindruckend.",
+      "quizQ": "What does 'das Kunstwerk' mean?",
+      "quizA": [
+        "work of art",
+        "artwork"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "der_dichter",
+      "de": "der Dichter",
+      "en": "poet",
+      "type": "noun • der",
+      "example": "Goethe ist ein berühmter Dichter.",
+      "quizQ": "Translate: der Dichter",
+      "quizA": [
+        "poet"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "darstellen",
+      "de": "darstellen",
+      "en": "to depict / represent",
+      "type": "verb",
+      "example": "Das Bild stellt eine Landschaft dar.",
+      "quizQ": "What does 'darstellen' mean?",
+      "quizA": [
+        "to depict",
+        "depict",
+        "to represent",
+        "represent"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "die_ausstellung",
+      "de": "die Ausstellung",
+      "en": "exhibition",
+      "type": "noun • die",
+      "example": "Die Ausstellung öffnet morgen.",
+      "quizQ": "Translate: die Ausstellung",
+      "quizA": [
+        "exhibition",
+        "exhibit"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "beeindruckend",
+      "de": "beeindruckend",
+      "en": "impressive",
+      "type": "adjective",
+      "example": "Der Roman war wirklich beeindruckend.",
+      "quizQ": "What does 'beeindruckend' mean?",
+      "quizA": [
+        "impressive"
+      ],
+      "icon": "check"
+    }
+  ],
+  "grammar": [
+    "Separable: darstellen → 'Das Bild stellt etwas dar.'",
+    "Participial adjectives: beeindruckend (impressive), überraschend (surprising).",
+    "Genitive with proper names: 'Goethes Faust', 'Kafkas Werke'.",
+    "'Handeln von + Dativ': 'Der Roman handelt von der Liebe.'",
+    "Subjective evaluation: 'Ich finde das Kunstwerk faszinierend.'"
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Art & Literature"
+  }
+}

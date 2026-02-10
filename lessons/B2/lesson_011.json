@@ -1,0 +1,83 @@
+{
+  "level": "B2",
+  "lesson": 11,
+  "title": "B2 • Lesson 011",
+  "words": [
+    {
+      "id": "das_verhalten",
+      "de": "das Verhalten",
+      "en": "behavior",
+      "type": "noun • das",
+      "example": "Sein Verhalten ist schwer zu erklären.",
+      "quizQ": "What does 'das Verhalten' mean?",
+      "quizA": [
+        "behavior",
+        "behaviour"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "die_wahrnehmung",
+      "de": "die Wahrnehmung",
+      "en": "perception",
+      "type": "noun • die",
+      "example": "Die Wahrnehmung beeinflusst unsere Entscheidungen.",
+      "quizQ": "Translate: die Wahrnehmung",
+      "quizA": [
+        "perception"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "beeinflussen",
+      "de": "beeinflussen",
+      "en": "to influence",
+      "type": "verb",
+      "example": "Werbung beeinflusst unser Kaufverhalten.",
+      "quizQ": "What does 'beeinflussen' mean?",
+      "quizA": [
+        "to influence",
+        "influence"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "das_unterbewusstsein",
+      "de": "das Unterbewusstsein",
+      "en": "subconscious",
+      "type": "noun • das",
+      "example": "Vieles passiert im Unterbewusstsein.",
+      "quizQ": "Translate: das Unterbewusstsein",
+      "quizA": [
+        "subconscious"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "verdraengen",
+      "de": "verdrängen",
+      "en": "to repress / suppress",
+      "type": "verb",
+      "example": "Er verdrängt seine Ängste.",
+      "quizQ": "What does 'verdrängen' mean?",
+      "quizA": [
+        "to repress",
+        "repress",
+        "to suppress",
+        "suppress"
+      ],
+      "icon": "check"
+    }
+  ],
+  "grammar": [
+    "Inseparable verbs: beeinflussen → beeinflusst (no ge- in Perfekt).",
+    "'Schwer zu + Infinitiv': 'Das Verhalten ist schwer zu erklären.'",
+    "Compound nouns: Kauf + Verhalten = das Kaufverhalten.",
+    "'Lassen sich' for passive meaning: 'Ängste lassen sich überwinden.'",
+    "Participial adjective: 'die beeinflusste Wahrnehmung', 'das verdrängte Gefühl'."
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Psychology & Behavior"
+  }
+}

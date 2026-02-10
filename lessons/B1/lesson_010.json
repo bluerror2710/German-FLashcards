@@ -1,0 +1,84 @@
+{
+  "level": "B1",
+  "lesson": 10,
+  "title": "B1 • Lesson 010",
+  "words": [
+    {
+      "id": "die_bewerbung",
+      "de": "die Bewerbung",
+      "en": "application",
+      "type": "noun • die",
+      "example": "Ich schreibe eine Bewerbung.",
+      "quizQ": "What does 'die Bewerbung' mean?",
+      "quizA": [
+        "application",
+        "job application"
+      ],
+      "icon": "work"
+    },
+    {
+      "id": "der_lebenslauf",
+      "de": "der Lebenslauf",
+      "en": "CV / résumé",
+      "type": "noun • der",
+      "example": "Mein Lebenslauf hat zwei Seiten.",
+      "quizQ": "Translate: der Lebenslauf",
+      "quizA": [
+        "CV",
+        "resume",
+        "résumé",
+        "curriculum vitae"
+      ],
+      "icon": "work"
+    },
+    {
+      "id": "die_erfahrung",
+      "de": "die Erfahrung",
+      "en": "experience",
+      "type": "noun • die",
+      "example": "Ich habe viel Erfahrung in diesem Bereich.",
+      "quizQ": "What does 'die Erfahrung' mean?",
+      "quizA": [
+        "experience"
+      ],
+      "icon": "work"
+    },
+    {
+      "id": "sich_bewerben",
+      "de": "sich bewerben",
+      "en": "to apply",
+      "type": "verb",
+      "example": "Ich bewerbe mich um die Stelle.",
+      "quizQ": "Translate: sich bewerben",
+      "quizA": [
+        "to apply",
+        "apply"
+      ],
+      "icon": "work"
+    },
+    {
+      "id": "das_vorstellungsgespraech",
+      "de": "das Vorstellungsgespräch",
+      "en": "job interview",
+      "type": "noun • das",
+      "example": "Morgen habe ich ein Vorstellungsgespräch.",
+      "quizQ": "What does 'das Vorstellungsgespräch' mean?",
+      "quizA": [
+        "job interview",
+        "interview"
+      ],
+      "icon": "work"
+    }
+  ],
+  "grammar": [
+    "'Sich bewerben um + Akk.': 'Ich bewerbe mich um die Stelle.'",
+    "Konjunktiv II for politeness: 'Ich würde mich freuen, von Ihnen zu hören.'",
+    "Formal letter structure: Anrede, Einleitung, Hauptteil, Schluss.",
+    "Compound nouns: Vorstellung + Gespräch = Vorstellungsgespräch.",
+    "'Um…zu' vs 'damit': 'Ich lerne Deutsch, um bessere Chancen zu haben.'"
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Career & Applications"
+  }
+}

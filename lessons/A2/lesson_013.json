@@ -1,0 +1,85 @@
+{
+  "level": "A2",
+  "lesson": 13,
+  "title": "A2 • Lesson 013",
+  "words": [
+    {
+      "id": "das_handy",
+      "de": "das Handy",
+      "en": "mobile phone",
+      "type": "noun • das",
+      "example": "Mein Handy ist kaputt.",
+      "quizQ": "What does 'das Handy' mean?",
+      "quizA": [
+        "mobile phone",
+        "cell phone",
+        "phone"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "herunterladen",
+      "de": "herunterladen",
+      "en": "to download",
+      "type": "verb",
+      "example": "Ich lade die App herunter.",
+      "quizQ": "Translate: herunterladen",
+      "quizA": [
+        "to download",
+        "download"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "die_webseite",
+      "de": "die Webseite",
+      "en": "website",
+      "type": "noun • die",
+      "example": "Die Webseite ist sehr modern.",
+      "quizQ": "What does 'die Webseite' mean?",
+      "quizA": [
+        "website",
+        "web page"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "das_passwort",
+      "de": "das Passwort",
+      "en": "password",
+      "type": "noun • das",
+      "example": "Vergiss dein Passwort nicht!",
+      "quizQ": "Translate: das Passwort",
+      "quizA": [
+        "password"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "speichern",
+      "de": "speichern",
+      "en": "to save / store",
+      "type": "verb",
+      "example": "Speichere die Datei auf dem Computer.",
+      "quizQ": "What does 'speichern' mean?",
+      "quizA": [
+        "to save",
+        "save",
+        "to store",
+        "store"
+      ],
+      "icon": "check"
+    }
+  ],
+  "grammar": [
+    "Separable: herunterladen → 'Ich lade … herunter.'",
+    "Imperativ du-form: 'Speichere die Datei!'",
+    "Anglicisms in German: das Handy, der Computer, die App.",
+    "'Können' for ability: 'Kannst du das Passwort ändern?'",
+    "Relative clause intro: 'Die App, die ich herunterlade, ist kostenlos.'"
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Technology & Internet"
+  }
+}

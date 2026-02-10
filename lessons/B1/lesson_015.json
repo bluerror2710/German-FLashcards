@@ -1,0 +1,84 @@
+{
+  "level": "B1",
+  "lesson": 15,
+  "title": "B1 • Lesson 015",
+  "words": [
+    {
+      "id": "die_heimat",
+      "de": "die Heimat",
+      "en": "homeland",
+      "type": "noun • die",
+      "example": "Meine Heimat ist weit weg.",
+      "quizQ": "What does 'die Heimat' mean?",
+      "quizA": [
+        "homeland",
+        "home"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "die_integration",
+      "de": "die Integration",
+      "en": "integration",
+      "type": "noun • die",
+      "example": "Integration braucht Zeit und Geduld.",
+      "quizQ": "Translate: die Integration",
+      "quizA": [
+        "integration"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "sich_anpassen",
+      "de": "sich anpassen",
+      "en": "to adapt",
+      "type": "verb",
+      "example": "Man muss sich an die neue Kultur anpassen.",
+      "quizQ": "What does 'sich anpassen' mean?",
+      "quizA": [
+        "to adapt",
+        "adapt"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "die_zugehoerigkeit",
+      "de": "die Zugehörigkeit",
+      "en": "belonging / affiliation",
+      "type": "noun • die",
+      "example": "Das Gefühl der Zugehörigkeit ist wichtig.",
+      "quizQ": "Translate: die Zugehörigkeit",
+      "quizA": [
+        "belonging",
+        "affiliation"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "praegen",
+      "de": "prägen",
+      "en": "to shape / to influence",
+      "type": "verb",
+      "example": "Die Erfahrung hat mich geprägt.",
+      "quizQ": "What does 'prägen' mean?",
+      "quizA": [
+        "to shape",
+        "shape",
+        "to influence",
+        "influence"
+      ],
+      "icon": "check"
+    }
+  ],
+  "grammar": [
+    "'Sich anpassen an + Akk.': 'sich an die Kultur anpassen.'",
+    "Genitive: 'das Gefühl der Zugehörigkeit' (the feeling of belonging).",
+    "'Obwohl' vs 'trotzdem': 'Obwohl es schwer ist, gibt er nicht auf.' / 'Es ist schwer, trotzdem gibt er nicht auf.'",
+    "Abstract nouns with -keit/-heit: Zugehörigkeit, Freiheit, Sicherheit.",
+    "Konjunktiv II: 'Wenn ich in der Heimat wäre, würde ich mich freuen.'"
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Migration & Identity"
+  }
+}

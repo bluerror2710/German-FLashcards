@@ -1,0 +1,79 @@
+{
+  "level": "A1",
+  "lesson": 10,
+  "title": "A1 • Lesson 010",
+  "words": [
+    {
+      "id": "die_uhr",
+      "de": "die Uhr",
+      "en": "clock / watch",
+      "type": "noun • die",
+      "example": "Es ist drei Uhr.",
+      "quizQ": "What does 'die Uhr' mean?",
+      "quizA": [
+        "clock",
+        "watch"
+      ],
+      "icon": "time"
+    },
+    {
+      "id": "der_montag",
+      "de": "der Montag",
+      "en": "Monday",
+      "type": "noun • der",
+      "example": "Am Montag gehe ich arbeiten.",
+      "quizQ": "Translate: der Montag",
+      "quizA": [
+        "Monday"
+      ],
+      "icon": "time"
+    },
+    {
+      "id": "gestern",
+      "de": "gestern",
+      "en": "yesterday",
+      "type": "adverb",
+      "example": "Gestern war ich müde.",
+      "quizQ": "What does 'gestern' mean?",
+      "quizA": [
+        "yesterday"
+      ],
+      "icon": "time"
+    },
+    {
+      "id": "die_stunde",
+      "de": "die Stunde",
+      "en": "hour",
+      "type": "noun • die",
+      "example": "Eine Stunde hat 60 Minuten.",
+      "quizQ": "Translate: die Stunde",
+      "quizA": [
+        "hour"
+      ],
+      "icon": "time"
+    },
+    {
+      "id": "frueh",
+      "de": "früh",
+      "en": "early",
+      "type": "adjective",
+      "example": "Ich stehe früh auf.",
+      "quizQ": "What does 'früh' mean?",
+      "quizA": [
+        "early"
+      ],
+      "icon": "time"
+    }
+  ],
+  "grammar": [
+    "Telling time: 'Es ist halb drei' = It is half past two (2:30).",
+    "Days of the week are masculine: der Montag, der Dienstag…",
+    "Use 'am' with days: 'Am Freitag habe ich frei.'",
+    "'Um' for exact times: 'Um acht Uhr' = At eight o'clock.",
+    "Time adverbs: heute (today), morgen (tomorrow), gestern (yesterday)."
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Time & Days"
+  }
+}

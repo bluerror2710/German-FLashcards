@@ -1,0 +1,84 @@
+{
+  "level": "A2",
+  "lesson": 8,
+  "title": "A2 • Lesson 008",
+  "words": [
+    {
+      "id": "der_flughafen",
+      "de": "der Flughafen",
+      "en": "airport",
+      "type": "noun • der",
+      "example": "Wir fahren zum Flughafen.",
+      "quizQ": "What does 'der Flughafen' mean?",
+      "quizA": [
+        "airport"
+      ],
+      "icon": "travel"
+    },
+    {
+      "id": "die_reise",
+      "de": "die Reise",
+      "en": "trip / journey",
+      "type": "noun • die",
+      "example": "Die Reise war wunderbar.",
+      "quizQ": "Translate: die Reise",
+      "quizA": [
+        "trip",
+        "journey",
+        "travel"
+      ],
+      "icon": "travel"
+    },
+    {
+      "id": "buchen",
+      "de": "buchen",
+      "en": "to book",
+      "type": "verb",
+      "example": "Ich habe ein Hotel gebucht.",
+      "quizQ": "What does 'buchen' mean?",
+      "quizA": [
+        "to book",
+        "book"
+      ],
+      "icon": "travel"
+    },
+    {
+      "id": "das_gepaeck",
+      "de": "das Gepäck",
+      "en": "luggage",
+      "type": "noun • das",
+      "example": "Mein Gepäck ist sehr schwer.",
+      "quizQ": "Translate: das Gepäck",
+      "quizA": [
+        "luggage",
+        "baggage"
+      ],
+      "icon": "travel"
+    },
+    {
+      "id": "abfahren",
+      "de": "abfahren",
+      "en": "to depart",
+      "type": "verb",
+      "example": "Der Zug fährt um neun Uhr ab.",
+      "quizQ": "What does 'abfahren' mean?",
+      "quizA": [
+        "to depart",
+        "depart",
+        "leave"
+      ],
+      "icon": "travel"
+    }
+  ],
+  "grammar": [
+    "Perfekt with 'haben': 'Ich habe gebucht.' (I have booked.)",
+    "Separable verbs in Perfekt: abfahren → 'Der Zug ist abgefahren.'",
+    "Dative with 'zu': 'zum Flughafen' = to the airport.",
+    "Prepositions of direction: nach Berlin, in die Schweiz, an den Strand.",
+    "Perfekt with 'sein' for movement: 'Ich bin gefahren.' (I drove/traveled.)"
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Travel & Vacation"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "level": "B2",
+  "lesson": 15,
+  "title": "B2 • Lesson 015",
+  "words": [
+    {
+      "id": "das_gedaechtnis",
+      "de": "das Gedächtnis",
+      "en": "memory (faculty)",
+      "type": "noun • das",
+      "example": "Das kollektive Gedächtnis einer Nation ist wichtig.",
+      "quizQ": "What does 'das Gedächtnis' mean?",
+      "quizA": [
+        "memory"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "die_erinnerung",
+      "de": "die Erinnerung",
+      "en": "memory / remembrance",
+      "type": "noun • die",
+      "example": "Die Erinnerung an den Krieg verblasst langsam.",
+      "quizQ": "Translate: die Erinnerung",
+      "quizA": [
+        "memory",
+        "remembrance",
+        "recollection"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "aufarbeiten",
+      "de": "aufarbeiten",
+      "en": "to come to terms with / process",
+      "type": "verb",
+      "example": "Deutschland hat seine Geschichte aufgearbeitet.",
+      "quizQ": "What does 'aufarbeiten' mean?",
+      "quizA": [
+        "to come to terms with",
+        "to process",
+        "process"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "das_erbe",
+      "de": "das Erbe",
+      "en": "heritage / legacy",
+      "type": "noun • das",
+      "example": "Das kulturelle Erbe muss bewahrt werden.",
+      "quizQ": "Translate: das Erbe",
+      "quizA": [
+        "heritage",
+        "legacy",
+        "inheritance"
+      ],
+      "icon": "check"
+    },
+    {
+      "id": "gedenken",
+      "de": "gedenken",
+      "en": "to commemorate",
+      "type": "verb",
+      "example": "Wir gedenken der Opfer des Krieges.",
+      "quizQ": "What does 'gedenken' mean?",
+      "quizA": [
+        "to commemorate",
+        "commemorate"
+      ],
+      "icon": "check"
+    }
+  ],
+  "grammar": [
+    "'Gedenken + Genitiv': 'Wir gedenken der Opfer.' (formal, uses genitive).",
+    "Separable: aufarbeiten → 'Die Geschichte wurde aufgearbeitet.'",
+    "'Verblassen' (to fade): 'Die Erinnerung verblasst.' — metaphorical use.",
+    "Partizip I as adjective: 'die verblassende Erinnerung' (the fading memory).",
+    "Konjunktiv II: 'Wenn wir die Geschichte nicht aufarbeiten würden, könnten wir die Fehler wiederholen.'"
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "History & Memory"
+  }
+}

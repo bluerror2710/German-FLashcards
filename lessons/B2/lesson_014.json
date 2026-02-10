@@ -1,0 +1,82 @@
+{
+  "level": "B2",
+  "lesson": 14,
+  "title": "B2 • Lesson 014",
+  "words": [
+    {
+      "id": "der_handel",
+      "de": "der Handel",
+      "en": "trade / commerce",
+      "type": "noun • der",
+      "example": "Der internationale Handel wächst stetig.",
+      "quizQ": "What does 'der Handel' mean?",
+      "quizA": [
+        "trade",
+        "commerce"
+      ],
+      "icon": "money"
+    },
+    {
+      "id": "die_lieferkette",
+      "de": "die Lieferkette",
+      "en": "supply chain",
+      "type": "noun • die",
+      "example": "Die Lieferketten sind gestört.",
+      "quizQ": "Translate: die Lieferkette",
+      "quizA": [
+        "supply chain"
+      ],
+      "icon": "money"
+    },
+    {
+      "id": "exportieren",
+      "de": "exportieren",
+      "en": "to export",
+      "type": "verb",
+      "example": "Deutschland exportiert viele Autos.",
+      "quizQ": "What does 'exportieren' mean?",
+      "quizA": [
+        "to export",
+        "export"
+      ],
+      "icon": "money"
+    },
+    {
+      "id": "der_zoll",
+      "de": "der Zoll",
+      "en": "customs / tariff",
+      "type": "noun • der",
+      "example": "An der Grenze muss man durch den Zoll.",
+      "quizQ": "Translate: der Zoll",
+      "quizA": [
+        "customs",
+        "tariff"
+      ],
+      "icon": "money"
+    },
+    {
+      "id": "die_globalisierung",
+      "de": "die Globalisierung",
+      "en": "globalization",
+      "type": "noun • die",
+      "example": "Die Globalisierung hat Vor- und Nachteile.",
+      "quizQ": "What does 'die Globalisierung' mean?",
+      "quizA": [
+        "globalization",
+        "globalisation"
+      ],
+      "icon": "money"
+    }
+  ],
+  "grammar": [
+    "'Stetig' vs 'ständig': stetig (steady), ständig (constant/continual).",
+    "Genitive plural: 'die Störung der Lieferketten'.",
+    "'-ierung' suffix for process nouns: globalisieren → die Globalisierung.",
+    "'Sowohl…als auch': 'Sowohl Exporte als auch Importe sind gestiegen.'",
+    "Partizip II as adjective: 'die gestörten Lieferketten' (the disrupted supply chains)."
+  ],
+  "_meta": {
+    "generatedAtUtc": "2026-02-10T12:58:00Z",
+    "topic": "Globalization & Trade"
+  }
+}
